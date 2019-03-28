@@ -1,0 +1,496 @@
+Script started on Thursday 14 March 2019 11:52:39 AM IST
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ cd Downloads/
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ cd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat>resu.txtgrep -a3 'CHN17CS' res.txt[15Pcat[C[C[C[C[C[C[C[C[22@pdftotext  result_CHN.pdf[C[C[C[C[C[C[C[Cu.txtl.txtt.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ pdftotext  result_CHN.pdf result.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat>resu.txtgrep -a3 'CHN17CS' res.txt[14Pcat>resu.txtgrep -a3 'CHN17CS' res.txt[15Pcat[C[C[C[C[C[C[C[C[22@pdftotext  result_CHN.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcd Downloads[6Pscriptcat>resu.txtgrep -a3 'CHN17CS' res.txt[3P'^[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"CHN17CS"[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[21@pdftotext result_CHN.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pcd Downloads[6Pscript[2Pexitgrep --no-group-separator -A3 'CHN17CS' result_CHN.txt || tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt | [1P[A]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt | t[1P[A]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt | tr[1P[A]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt | tr [1P[A]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt | tr '[1P[A]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct.txt | tr [1@'[A]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@1
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ cat result1.txt
+CHN17CS001  MA101(A), PH100(B+), BE100(B), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(B+), CS110(A)
+CHN17CS002  MA101(A), PH100(B+), BE100(B), BE10105(B+), BE103(A), EE100(B), PH110(B+), EE110(B+), CS110(B)
+CHN17CS003  MA101(B+), PH100(B), BE100(C), BE10105(C), BE103(A+), EE100(C), PH110(B+), EE110(B+), CS110(B)
+CHN17CS004  MA101(B), PH100(C), BE100(B+), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS005  MA101(C), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+), CS110(B+)
+CHN17CS006  MA101(O), PH100(B+), BE100(A+), BE10105(B), BE103(A+), EE100(B+), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS007  MA101(F), PH100(C), BE100(P), BE10105(F), BE103(B+), EE100(F), PH110(A), EE110(B+), CS110(B+)
+CHN17CS008  MA101(B), PH100(B), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(A+), EE110(B+), CS110(B)
+CHN17CS009  MA101(A), PH100(A), BE100(B), BE10105(F), BE103(A+), EE100(C), PH110(A), EE110(B+), CS110(B)
+CHN17CS010  MA101(F), PH100(C), BE100(B), BE10105(C), BE103(B), EE100(C), PH110(B+), EE110(B+), CS110(B)
+CHN17CS011  MA101(C), PH100(B), BE100(B), BE10105(B+), BE103(A+), EE100(B+), PH110(A+), EE110(A), CS110(A)
+CHN17CS012  MA101(B+), PH100(A+), BE100(B+), BE10105(B+), BE103(A+), EE100(B+), PH110(A+), EE110(A+), CS110(B+)
+CHN17CS013  MA101(F), PH100(B), BE100(B), BE10105(A), BE103(A), EE100(B), PH110(A+), EE110(A), CS110(O) CHN17CS014  MA101(F), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A+), CS110(B+)
+CHN17CS015  MA101(F), PH100(B+), BE100(C), BE10105(F), BE103(A), EE100(B), PH110(A+), EE110(A), CS110(C)
+CHN17CS016  MA101(B), PH100(B+), BE100(C), BE10105(F), BE103(B+), EE100(C), PH110(A), EE110(A), CS110(B+)
+CHN17CS017  MA101(B+), PH100(A), BE100(B+), BE10105(A+), BE103(A+), EE100(A), PH110(A+), EE110(A), CS110(O)
+CHN17CS018  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(B+), CS110(A)
+CHN17CS019  MA101(A), PH100(A+), BE100(B+), BE10105(A+), BE103(A), EE100(A), PH110(O), EE110(B+), CS110(O)
+CHN17CS020  MA101(B+), PH100(C), BE100(B), BE10105(F), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(B+)
+CHN17CS021  MA101(B), PH100(C), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS022  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(F), EE100(FE), PH110(B+), EE110(B), CS110(A)
+CHN17CS023  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(B+)
+CHN17CS024  MA101(B+), PH100(A+), BE100(O), BE10105(A+), BE103(A+), EE100(B+), PH110(A+), EE110(B+), CS110(O)
+CHN17CS025  MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(A), EE110(B+), CS110(B)
+CHN17CS026  MA101(C), PH100(B+), BE100(B+), BE10105(A), BE103(B+), EE100(C), PH110(O), EE110(A), CS110(A)
+CHN17CS027  MA101(A), PH100(B), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS028  MA101(B+), PH100(B+), BE100(B+), BE10105(A), BE103(B+), EE100(B+), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS029  MA101(F), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS030  MA101(A+), PH100(A), BE100(A+), BE10105(A+), BE103(B+), EE100(B+), PH110(O), EE110(A+), CS110(O)
+CHN17CS031  MA101(F), PH100(C), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(B+) CHN17CS032  MA101(F), PH100(C), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A), CS110(A+)
+CHN17CS033  MA101(B+), PH100(A), BE100(B+), BE10105(F), BE103(B), EE100(B+), PH110(A+), EE110(A), CS110(B)
+CHN17CS034  MA101(B), PH100(B+), BE100(B), BE10105(F), BE103(A+), EE100(C), PH110(A), EE110(B+), CS110(A+)
+CHN17CS035  MA101(F), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS036  MA101(B+), PH100(A+), BE100(A+), BE10105(B+), BE103(O), EE100(B), PH110(A+), EE110(A+), CS110(B+)
+CHN17CS037  MA101(F), PH100(F), BE100(C), BE10105(B+), BE103(B+), EE100(C), PH110(A), EE110(A), CS110(O)
+CHN17CS038  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(C), PH110(B+), EE110(A), CS110(A)
+CHN17CS039  MA101(B), PH100(F), BE100(B+), BE10105(A), BE103(A), EE100(B+), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS040  MA101(B+), PH100(A), BE100(A), BE10105(A), BE103(O), EE100(B+), PH110(O), EE110(B+), CS110(A)
+CHN17CS041  MA101(B+), PH100(F), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A), CS110(O)
+CHN17CS042  MA101(C), PH100(F), BE100(C), BE10105(B+), BE103(A+), EE100(C), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS043  MA101(F), PH100(F), BE100(B), BE10105(F), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS044  MA101(B+), PH100(B), BE100(B+), BE10105(B+), BE103(O), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS045  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(A+), EE100(C), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS046  MA101(F), PH100(F), BE100(C), BE10105(F), BE103(C), EE100(C), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS047  MA101(F), PH100(F), BE100(F), BE10105(B), BE103(A), EE100(FE), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS048  MA101(B), PH100(B), BE100(O), BE10105(A+), BE103(O), EE100(A), PH110(A), EE110(B+), CS110(O)
+CHN17CS049  MA101(B+), PH100(A+), BE100(B), BE10105(O), BE103(A+), EE100(B+), PH110(A+), EE110(A+), CS110(B+) CHN17CS050  MA101(B), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(A+), EE110(A+), CS110(B+)
+CHN17CS051  MA101(B), PH100(B), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(A+), EE110(B), CS110(O)
+CHN17CS052  MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(P), PH110(B+), EE110(A+), CS110(O)
+CHN17CS053  MA101(O), PH100(B+), BE100(A), BE10105(B), BE103(A), EE100(A+), PH110(O), EE110(A+), CS110(O)
+CHN17CS054  MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(B+), EE100(B), PH110(B+), EE110(B+), CS110(O)
+CHN17CS055  MA101(F), PH100(C), BE100(B), BE10105(C), BE103(A), EE100(C), PH110(A), EE110(B+), CS110(O)
+CHN17CS056  MA101(F), PH100(B), BE100(F), BE10105(B), BE103(A), EE100(C), PH110(A), EE110(B+), CS110(B+)
+CHN17CS057  MA101(B+), PH100(B+), BE100(B+), BE10105(A), BE103(A+), EE100(B+), PH110(A+), EE110(A), CS110(O)
+CHN17CS058  MA101(B), PH100(B+), BE100(B), BE10105(B+), BE103(A+), EE100(B), PH110(A), EE110(B+), CS110(O)
+CHN17CS059  MA101(B+), PH100(B+), BE100(P), BE10105(B), BE103(B+), EE100(B), PH110(A), EE110(A), CS110(B+)
+CHN17CS060  MA101(B), PH100(B), BE100(F), BE10105(B+), BE103(A), EE100(C), PH110(B+), EE110(A), CS110(O)
+CHN17CS061  MA101(B), PH100(B), BE100(B), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(O), CS110(A)
+CHN17CS062  MA101(A+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(B), PH110(A+), EE110(A), CS110(B+)
+CHN17CS063  MA101(B+), PH100(B+), BE100(B), BE10105(B), BE103(A+), EE100(B), PH110(A), EE110(A), CS110(O)
+CHN17CS064  MA101(B+), PH100(B+), BE100(B), BE10105(B+), BE103(B), EE100(C), PH110(O), EE110(B), CS110(O)
+CHN17CS065  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+), CS110(C)
+CHN17CS066  MA101(F), PH100(C), BE100(C), BE10105(B), BE103(A), EE100(B), PH110(B+), EE110(B+), CS110(B)
+CHN17CS067  MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH110(A), EE110(B+), CS110(B+) CHN17CS068  MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+), CS110(A+)
+CHN17CS069  MA101(B+), PH100(A), BE100(B+), BE10105(A), BE103(A+), EE100(B), PH110(A), EE110(B+), CS110(O)
+CHN17CS070  MA101(A), PH100(A), BE100(B+), BE10105(C), BE103(O), EE100(B), PH110(O), EE110(A+), CS110(A+)
+CHN17CS071  MA101(F), PH100(F), BE100(F), BE10105(B), BE103(C), EE100(C), PH110(B+), EE110(B+), CS110(O)
+CHN17CS072  MA101(F), PH100(B), BE100(F), BE10105(C), BE103(C), EE100(C), PH110(B+), EE110(B), CS110(B+)
+CHN17CS073  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(F), PH110(B+), EE110(B+), CS110(B)
+CHN17CS074  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(FE), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS075  MA101(B), PH100(B), BE100(C), BE10105(C), BE103(B+), EE100(P), PH110(A), EE110(B+), CS110(A+)
+CHN17CS076  MA101(F), PH100(B), BE100(C), BE10105(F), BE103(C), EE100(P), PH110(B+), EE110(A), CS110(A)
+CHN17CS077  MA101(B+), PH100(A), BE100(B+), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS078  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS079  MA101(A+), PH100(B+), BE100(B+), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(A), CS110(O)
+CHN17CS080  MA101(B+), PH100(B), BE100(B+), BE10105(A+), BE103(B+), EE100(B), PH110(A), EE110(A+), CS110(O)
+CHN17CS081  MA101(B+), PH100(C), BE100(C), BE10105(B+), BE103(B), EE100(F), PH110(A), EE110(B), CS110(B)
+CHN17CS082  MA101(C), PH100(F), BE100(F), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(A+)
+CHN17CS083  MA101(B), PH100(C), BE100(C), BE10105(B), BE103(B), EE100(C), PH110(A), EE110(B+), CS110(O)
+CHN17CS084  MA101(B), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(A)
+CHN17CS085  MA101(A), PH100(O), BE100(O), BE10105(B), BE103(B+), EE100(B+), PH110(A+), EE110(B+), CS110(O) CHN17CS086  MA101(F), PH100(F), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(A+), EE110(A), CS110(A)
+CHN17CS087  MA101(C), PH100(B), BE100(C), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(A)
+CHN17CS088  MA101(F), PH100(F), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(B+), CS110(O)
+CHN17CS089  MA101(A), PH100(C), BE100(B), BE10105(C), BE103(C), EE100(F), PH110(A), EE110(B), CS110(O)
+CHN17CS090  MA101(F), PH100(P), BE100(F), BE10105(B+), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(O)
+CHN17CS091  MA101(B+), PH100(A+), BE100(B+), BE10105(A), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS092  MA101(F), PH100(B), BE100(F), BE10105(C), BE103(B), EE100(B), PH110(A+), EE110(B+), CS110(B+)
+CHN17CS093  MA101(A+), PH100(C), BE100(B+), BE10105(A+), BE103(B), EE100(C), PH110(A), EE110(B+), CS110(A+)
+CHN17CS094  MA101(B+), PH100(B+), BE100(B), BE10105(A+), BE103(B+), EE100(B+), PH110(A+), EE110(B+), CS110(O)
+CHN17CS095  MA101(C), PH100(B+), BE100(B+), BE10105(B+), BE103(A), EE100(B+), PH110(A+), EE110(O), CS110(O)
+CHN17CS096  MA101(B), PH100(C), BE100(P), BE10105(B), BE103(B+), EE100(F), PH110(A+), EE110(A), CS110(A)
+CHN17CS097  MA101(A), PH100(A), BE100(A+), BE10105(O), BE103(A), EE100(A), PH110(A+), EE110(B+), CS110(O)
+CHN17CS098  MA101(O), PH100(O), BE100(A), BE10105(A), BE103(O), EE100(A), PH110(O), EE110(A), CS110(B)
+CHN17CS099  MA101(B+), PH100(B), BE100(C), BE10105(B+), BE103(B+), EE100(F), PH110(A+), EE110(B+), CS110(A)
+CHN17CS100  MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B), EE100(B), PH110(A+), EE110(A+), CS110(A)
+CHN17CS101  MA101(F), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(P), PH110(A+), EE110(A+), CS110(O)
+CHN17CS102  MA101(B), PH100(C), BE100(B), BE10105(F), BE103(B+), EE100(P), PH110(A+), EE110(B+), CS110(B)
+CHN17CS103  MA101(B), PH100(B+), BE100(B+), BE10105(B+), BE103(A), EE100(B), PH110(A+), EE110(B+), CS110(O) CHN17CS104  MA101(B), PH100(B), BE100(C), BE10105(A+), BE103(A+), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS105  MA101(B), PH100(B), BE100(B), BE10105(B), BE103(B+), EE100(B), PH110(A+), EE110(B), CS110(B+)
+CHN17CS106  MA101(B), PH100(C), BE100(F), BE10105(F), BE103(B), EE100(P), PH110(B+), EE110(A+), CS110(O)
+CHN17CS107  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B), EE100(FE), PH110(B+), EE110(B+), CS110(B+)
+CHN17CS108  MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH110(A), EE110(B+), CS110(B+)
+CHN17CS109  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(C), EE100(F), PH110(B+), EE110(A), CS110(B+)
+CHN17CS110  MA101(C), PH100(B+), BE100(C), BE10105(C), BE103(A), EE100(B), PH110(A), EE110(B+), CS110(A)
+CHN17CS111  MA101(B), PH100(B+), BE100(F), BE10105(A+), BE103(A+), EE100(B), PH110(A+), EE110(B+), CS110(A+)
+CHN17CS112  MA101(B+), PH100(B+), BE100(C), BE10105(C), BE103(B+), EE100(B), PH110(A+), EE110(A), CS110(B+)
+CHN17CS113  MA101(F), PH100(B), BE100(B), BE10105(C), BE103(B+), EE100(C), PH110(B+), EE110(A+), CS110(B+)
+CHN17CS114  MA101(B), PH100(B+), BE100(B), BE10105(C), BE103(B+), EE100(B), PH110(A+), EE110(B+), CS110(O)
+CHN17CS115  MA101(B), PH100(B+), BE100(A), BE10105(B+), BE103(A), EE100(B), PH110(O), EE110(A+), CS110(O)
+CHN17CS116  MA101(F), PH100(A), BE100(B), BE10105(A), BE103(A+), EE100(B), PH110(O), EE110(B+), CS110(O)
+CHN17CS117  MA101(B+), PH100(B), BE100(B), BE10105(B+), BE103(A), EE100(C), PH110(O), EE110(A+), CS110(O)
+CHN17CS118  MA101(B), PH100(A), BE100(A), BE10105(C), BE103(B+), EE100(B+), PH110(O), EE110(O), CS110(O)
+CHN17CS119  MA101(F), PH100(C), BE100(F), BE10105(B), BE103(B), EE100(C), PH110(A+), EE110(B+), CS110(O)
+CHN17CS120  MA101(F), PH100(F), BE100(F), BE10105(F), BE103(B+), EE100(C), PH110(A), EE110(B+), CS110(B+) ]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ cat result1.txtgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[Cu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(I)/ 0 /g' result1.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(FE)/ 0 /g' result1.txt[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(FE)/ 0 /g' res.txt[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat>resu.txtgrep -a3 'CHN17CS' res.txt[15Pcat[C[C[C[C[C[C[C[C[22@pdftotext  result_CHN.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcd Downloadspdftotext  result_CHN.pdf res.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Pcat[C[C[C[C[C[C[C[C[15@grep -a3 'CHN17CS'[C[C[C[C[C[C[C[C[14Pcat>resu.txtsed -i 's/(O)/ 10 /g' res.txtA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[1@)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txt[1P[1@0[1P[1@F[C[C[C[C[C[C[C[C[C[C[C[Cu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(F)/ 0 /g' result1.txt[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(P)/ 5 /g' result1.txtF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[Cul[K[Ku.txtl.txty.txt[1P.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(P)/ 5 /g' result1.txtF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[Cu.txtl.txty.txt[1P.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(C)/ 6 /g' result1.txtP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[Cu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(B)/ 7 /g' result1.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[Cu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(B+)/ 8 /g' result1.txt[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[Cu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(A)/ 8.5 /g' result1.txt[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[Cu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ sed -i 's/(A+)/ 9 /g' result1.txt[1@)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[Cu.txtl.txtt.txt1.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ cat result.[K1.txt
+CHN17CS001  MA101 8.5 , PH100 8 , BE100 7 , BE10105 8 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8 , CS110 8.5 
+CHN17CS002  MA101 8.5 , PH100 8 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 8 , EE110 8 , CS110 7 
+CHN17CS003  MA101 8 , PH100 7 , BE100 6 , BE10105 6 , BE103 9 , EE100 6 , PH110 8 , EE110 8 , CS110 7 
+CHN17CS004  MA101 7 , PH100 6 , BE100 8 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10 
+CHN17CS005  MA101 6 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8 
+CHN17CS006  MA101 10 , PH100 8 , BE100 9 , BE10105 7 , BE103 9 , EE100 8 , PH110 9 , EE110 8 , CS110 9 
+CHN17CS007  MA101 0 , PH100 6 , BE100 5 , BE10105 0 , BE103 8 , EE100 0 , PH110 8.5 , EE110 8 , CS110 8 
+CHN17CS008  MA101 7 , PH100 7 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 9 , EE110 8 , CS110 7 
+CHN17CS009  MA101 8.5 , PH100 8.5 , BE100 7 , BE10105 0 , BE103 9 , EE100 6 , PH110 8.5 , EE110 8 , CS110 7 
+CHN17CS010  MA101 0 , PH100 6 , BE100 7 , BE10105 6 , BE103 7 , EE100 6 , PH110 8 , EE110 8 , CS110 7 
+CHN17CS011  MA101 6 , PH100 7 , BE100 7 , BE10105 8 , BE103 9 , EE100 8 , PH110 9 , EE110 8.5 , CS110 8.5 
+CHN17CS012  MA101 8 , PH100 9 , BE100 8 , BE10105 8 , BE103 9 , EE100 8 , PH110 9 , EE110 9 , CS110 8 
+CHN17CS013  MA101 0 , PH100 7 , BE100 7 , BE10105 8.5 , BE103 8.5 , EE100 7 , PH110 9 , EE110 8.5 , CS110 10  CHN17CS014  MA101 0 , PH100 7 , BE100 0 , BE10105 8 , BE103 8 , EE100 6 , PH110 8.5 , EE110 9 , CS110 8 
+CHN17CS015  MA101 0 , PH100 8 , BE100 6 , BE10105 0 , BE103 8.5 , EE100 7 , PH110 9 , EE110 8.5 , CS110 6 
+CHN17CS016  MA101 7 , PH100 8 , BE100 6 , BE10105 0 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8.5 , CS110 8 
+CHN17CS017  MA101 8 , PH100 8.5 , BE100 8 , BE10105 9 , BE103 9 , EE100 8.5 , PH110 9 , EE110 8.5 , CS110 10 
+CHN17CS018  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 6 , EE100 5 , PH110 8 , EE110 8 , CS110 8.5 
+CHN17CS019  MA101 8.5 , PH100 9 , BE100 8 , BE10105 9 , BE103 8.5 , EE100 8.5 , PH110 10 , EE110 8 , CS110 10 
+CHN17CS020  MA101 8 , PH100 6 , BE100 7 , BE10105 0 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 8 
+CHN17CS021  MA101 7 , PH100 6 , BE100 7 , BE10105 8 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS022  MA101 0 , PH100 6 , BE100 0 , BE10105 0 , BE103 0 , EE100 0 , PH110 8 , EE110 7 , CS110 8.5 
+CHN17CS023  MA101 0 , PH100 6 , BE100 0 , BE10105 0 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 8 
+CHN17CS024  MA101 8 , PH100 9 , BE100 10 , BE10105 9 , BE103 9 , EE100 8 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS025  MA101 0 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8 , CS110 7 
+CHN17CS026  MA101 6 , PH100 8 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 6 , PH110 10 , EE110 8.5 , CS110 8.5 
+CHN17CS027  MA101 8.5 , PH100 7 , BE100 7 , BE10105 8 , BE103 9 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10 
+CHN17CS028  MA101 8 , PH100 8 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 8 , PH110 9 , EE110 8 , CS110 9 
+CHN17CS029  MA101 0 , PH100 0 , BE100 0 , BE10105 6 , BE103 8 , EE100 5 , PH110 8 , EE110 8.5 , CS110 8.5 
+CHN17CS030  MA101 9 , PH100 8.5 , BE100 9 , BE10105 9 , BE103 8 , EE100 8 , PH110 10 , EE110 9 , CS110 10 
+CHN17CS031  MA101 0 , PH100 6 , BE100 0 , BE10105 6 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 8  CHN17CS032  MA101 0 , PH100 6 , BE100 6 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 8.5 , CS110 9 
+CHN17CS033  MA101 8 , PH100 8.5 , BE100 8 , BE10105 0 , BE103 7 , EE100 8 , PH110 9 , EE110 8.5 , CS110 7 
+CHN17CS034  MA101 7 , PH100 8 , BE100 7 , BE10105 0 , BE103 9 , EE100 6 , PH110 8.5 , EE110 8 , CS110 9 
+CHN17CS035  MA101 0 , PH100 6 , BE100 0 , BE10105 0 , BE103 7 , EE100 6 , PH110 8 , EE110 8 , CS110 8 
+CHN17CS036  MA101 8 , PH100 9 , BE100 9 , BE10105 8 , BE103 10 , EE100 7 , PH110 9 , EE110 9 , CS110 8 
+CHN17CS037  MA101 0 , PH100 0 , BE100 6 , BE10105 8 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8.5 , CS110 10 
+CHN17CS038  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 6 , PH110 8 , EE110 8.5 , CS110 8.5 
+CHN17CS039  MA101 7 , PH100 0 , BE100 8 , BE10105 8.5 , BE103 8.5 , EE100 8 , PH110 8 , EE110 8 , CS110 8 
+CHN17CS040  MA101 8 , PH100 8.5 , BE100 8.5 , BE10105 8.5 , BE103 10 , EE100 8 , PH110 10 , EE110 8 , CS110 8.5 
+CHN17CS041  MA101 8 , PH100 0 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 8 , EE110 8.5 , CS110 10 
+CHN17CS042  MA101 6 , PH100 0 , BE100 6 , BE10105 8 , BE103 9 , EE100 6 , PH110 8 , EE110 8 , CS110 8 
+CHN17CS043  MA101 0 , PH100 0 , BE100 7 , BE10105 0 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 8 
+CHN17CS044  MA101 8 , PH100 7 , BE100 8 , BE10105 8 , BE103 10 , EE100 7 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS045  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 9 , EE100 6 , PH110 8 , EE110 8 , CS110 9 
+CHN17CS046  MA101 0 , PH100 0 , BE100 6 , BE10105 0 , BE103 6 , EE100 6 , PH110 8 , EE110 8 , CS110 8 
+CHN17CS047  MA101 0 , PH100 0 , BE100 0 , BE10105 7 , BE103 8.5 , EE100 0 , PH110 8 , EE110 8 , CS110 8 
+CHN17CS048  MA101 7 , PH100 7 , BE100 10 , BE10105 9 , BE103 10 , EE100 8.5 , PH110 8.5 , EE110 8 , CS110 10 
+CHN17CS049  MA101 8 , PH100 9 , BE100 7 , BE10105 10 , BE103 9 , EE100 8 , PH110 9 , EE110 9 , CS110 8  CHN17CS050  MA101 7 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 6 , PH110 9 , EE110 9 , CS110 8 
+CHN17CS051  MA101 7 , PH100 7 , BE100 8 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 9 , EE110 7 , CS110 10 
+CHN17CS052  MA101 0 , PH100 0 , BE100 0 , BE10105 8 , BE103 8 , EE100 5 , PH110 8 , EE110 9 , CS110 10 
+CHN17CS053  MA101 10 , PH100 8 , BE100 8.5 , BE10105 7 , BE103 8.5 , EE100 9 , PH110 10 , EE110 9 , CS110 10 
+CHN17CS054  MA101 7 , PH100 7 , BE100 0 , BE10105 8 , BE103 8 , EE100 7 , PH110 8 , EE110 8 , CS110 10 
+CHN17CS055  MA101 0 , PH100 6 , BE100 7 , BE10105 6 , BE103 8.5 , EE100 6 , PH110 8.5 , EE110 8 , CS110 10 
+CHN17CS056  MA101 0 , PH100 7 , BE100 0 , BE10105 7 , BE103 8.5 , EE100 6 , PH110 8.5 , EE110 8 , CS110 8 
+CHN17CS057  MA101 8 , PH100 8 , BE100 8 , BE10105 8.5 , BE103 9 , EE100 8 , PH110 9 , EE110 8.5 , CS110 10 
+CHN17CS058  MA101 7 , PH100 8 , BE100 7 , BE10105 8 , BE103 9 , EE100 7 , PH110 8.5 , EE110 8 , CS110 10 
+CHN17CS059  MA101 8 , PH100 8 , BE100 5 , BE10105 7 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8.5 , CS110 8 
+CHN17CS060  MA101 7 , PH100 7 , BE100 0 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 8 , EE110 8.5 , CS110 10 
+CHN17CS061  MA101 7 , PH100 7 , BE100 7 , BE10105 8 , BE103 8 , EE100 7 , PH110 9 , EE110 10 , CS110 8.5 
+CHN17CS062  MA101 9 , PH100 8 , BE100 7 , BE10105 8 , BE103 7 , EE100 7 , PH110 9 , EE110 8.5 , CS110 8 
+CHN17CS063  MA101 8 , PH100 8 , BE100 7 , BE10105 7 , BE103 9 , EE100 7 , PH110 8.5 , EE110 8.5 , CS110 10 
+CHN17CS064  MA101 8 , PH100 8 , BE100 7 , BE10105 8 , BE103 7 , EE100 6 , PH110 10 , EE110 7 , CS110 10 
+CHN17CS065  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 0 , PH110 8 , EE110 8 , CS110 6 
+CHN17CS066  MA101 0 , PH100 6 , BE100 6 , BE10105 7 , BE103 8.5 , EE100 7 , PH110 8 , EE110 8 , CS110 7 
+CHN17CS067  MA101 7 , PH100 7 , BE100 6 , BE10105 8 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8  CHN17CS068  MA101 7 , PH100 8 , BE100 7 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8 , CS110 9 
+CHN17CS069  MA101 8 , PH100 8.5 , BE100 8 , BE10105 8.5 , BE103 9 , EE100 7 , PH110 8.5 , EE110 8 , CS110 10 
+CHN17CS070  MA101 8.5 , PH100 8.5 , BE100 8 , BE10105 6 , BE103 10 , EE100 7 , PH110 10 , EE110 9 , CS110 9 
+CHN17CS071  MA101 0 , PH100 0 , BE100 0 , BE10105 7 , BE103 6 , EE100 6 , PH110 8 , EE110 8 , CS110 10 
+CHN17CS072  MA101 0 , PH100 7 , BE100 0 , BE10105 6 , BE103 6 , EE100 6 , PH110 8 , EE110 7 , CS110 8 
+CHN17CS073  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 0 , PH110 8 , EE110 8 , CS110 7 
+CHN17CS074  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 8 , EE100 0 , PH110 8 , EE110 8 , CS110 9 
+CHN17CS075  MA101 7 , PH100 7 , BE100 6 , BE10105 6 , BE103 8 , EE100 5 , PH110 8.5 , EE110 8 , CS110 9 
+CHN17CS076  MA101 0 , PH100 7 , BE100 6 , BE10105 0 , BE103 6 , EE100 5 , PH110 8 , EE110 8.5 , CS110 8.5 
+CHN17CS077  MA101 8 , PH100 8.5 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS078  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 6 , EE100 0 , PH110 8 , EE110 8 , CS110 8 
+CHN17CS079  MA101 9 , PH100 8 , BE100 8 , BE10105 8 , BE103 8 , EE100 7 , PH110 9 , EE110 8.5 , CS110 10 
+CHN17CS080  MA101 8 , PH100 7 , BE100 8 , BE10105 9 , BE103 8 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10 
+CHN17CS081  MA101 8 , PH100 6 , BE100 6 , BE10105 8 , BE103 7 , EE100 0 , PH110 8.5 , EE110 7 , CS110 7 
+CHN17CS082  MA101 6 , PH100 0 , BE100 0 , BE10105 6 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 9 
+CHN17CS083  MA101 7 , PH100 6 , BE100 6 , BE10105 7 , BE103 7 , EE100 6 , PH110 8.5 , EE110 8 , CS110 10 
+CHN17CS084  MA101 7 , PH100 7 , BE100 6 , BE10105 8 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 8.5 
+CHN17CS085  MA101 8.5 , PH100 10 , BE100 10 , BE10105 7 , BE103 8 , EE100 8 , PH110 9 , EE110 8 , CS110 10  CHN17CS086  MA101 0 , PH100 0 , BE100 0 , BE10105 7 , BE103 7 , EE100 6 , PH110 9 , EE110 8.5 , CS110 8.5 
+CHN17CS087  MA101 6 , PH100 7 , BE100 6 , BE10105 8.5 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 8.5 
+CHN17CS088  MA101 0 , PH100 0 , BE100 0 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 10 
+CHN17CS089  MA101 8.5 , PH100 6 , BE100 7 , BE10105 6 , BE103 6 , EE100 0 , PH110 8.5 , EE110 7 , CS110 10 
+CHN17CS090  MA101 0 , PH100 5 , BE100 0 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 10 
+CHN17CS091  MA101 8 , PH100 9 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 9 
+CHN17CS092  MA101 0 , PH100 7 , BE100 0 , BE10105 6 , BE103 7 , EE100 7 , PH110 9 , EE110 8 , CS110 8 
+CHN17CS093  MA101 9 , PH100 6 , BE100 8 , BE10105 9 , BE103 7 , EE100 6 , PH110 8.5 , EE110 8 , CS110 9 
+CHN17CS094  MA101 8 , PH100 8 , BE100 7 , BE10105 9 , BE103 8 , EE100 8 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS095  MA101 6 , PH100 8 , BE100 8 , BE10105 8 , BE103 8.5 , EE100 8 , PH110 9 , EE110 10 , CS110 10 
+CHN17CS096  MA101 7 , PH100 6 , BE100 5 , BE10105 7 , BE103 8 , EE100 0 , PH110 9 , EE110 8.5 , CS110 8.5 
+CHN17CS097  MA101 8.5 , PH100 8.5 , BE100 9 , BE10105 10 , BE103 8.5 , EE100 8.5 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS098  MA101 10 , PH100 10 , BE100 8.5 , BE10105 8.5 , BE103 10 , EE100 8.5 , PH110 10 , EE110 8.5 , CS110 7 
+CHN17CS099  MA101 8 , PH100 7 , BE100 6 , BE10105 8 , BE103 8 , EE100 0 , PH110 9 , EE110 8 , CS110 8.5 
+CHN17CS100  MA101 0 , PH100 7 , BE100 7 , BE10105 7 , BE103 7 , EE100 7 , PH110 9 , EE110 9 , CS110 8.5 
+CHN17CS101  MA101 0 , PH100 7 , BE100 7 , BE10105 7 , BE103 8 , EE100 5 , PH110 9 , EE110 9 , CS110 10 
+CHN17CS102  MA101 7 , PH100 6 , BE100 7 , BE10105 0 , BE103 8 , EE100 5 , PH110 9 , EE110 8 , CS110 7 
+CHN17CS103  MA101 7 , PH100 8 , BE100 8 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 9 , EE110 8 , CS110 10  CHN17CS104  MA101 7 , PH100 7 , BE100 6 , BE10105 9 , BE103 9 , EE100 6 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS105  MA101 7 , PH100 7 , BE100 7 , BE10105 7 , BE103 8 , EE100 7 , PH110 9 , EE110 7 , CS110 8 
+CHN17CS106  MA101 7 , PH100 6 , BE100 0 , BE10105 0 , BE103 7 , EE100 5 , PH110 8 , EE110 9 , CS110 10 
+CHN17CS107  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 0 , PH110 8 , EE110 8 , CS110 8 
+CHN17CS108  MA101 8 , PH100 8 , BE100 6 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8 
+CHN17CS109  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 6 , EE100 0 , PH110 8 , EE110 8.5 , CS110 8 
+CHN17CS110  MA101 6 , PH100 8 , BE100 6 , BE10105 6 , BE103 8.5 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8.5 
+CHN17CS111  MA101 7 , PH100 8 , BE100 0 , BE10105 9 , BE103 9 , EE100 7 , PH110 9 , EE110 8 , CS110 9 
+CHN17CS112  MA101 8 , PH100 8 , BE100 6 , BE10105 6 , BE103 8 , EE100 7 , PH110 9 , EE110 8.5 , CS110 8 
+CHN17CS113  MA101 0 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 8 
+CHN17CS114  MA101 7 , PH100 8 , BE100 7 , BE10105 6 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS115  MA101 7 , PH100 8 , BE100 8.5 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 10 , EE110 9 , CS110 10 
+CHN17CS116  MA101 0 , PH100 8.5 , BE100 7 , BE10105 8.5 , BE103 9 , EE100 7 , PH110 10 , EE110 8 , CS110 10 
+CHN17CS117  MA101 8 , PH100 7 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 10 , EE110 9 , CS110 10 
+CHN17CS118  MA101 7 , PH100 8.5 , BE100 8.5 , BE10105 6 , BE103 8 , EE100 8 , PH110 10 , EE110 10 , CS110 10 
+CHN17CS119  MA101 0 , PH100 6 , BE100 0 , BE10105 7 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 10 
+CHN17CS120  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8 , CS110 8  ]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ cat result1.txt[18@sed -i 's/(O)/ 10 /g'[C[C[C[C[C[C[C[C[C[C[C[CA+)/ 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PB+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CC)/ 6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CP)/ 5[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CF)/ 0[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@E[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1PI[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgrep --no-group-separator -A3 'CHN17CS' result.txt | tr  '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result1.txt [A[19Ppdftotext  result_CHN.pdf result.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[23Pcd Downloads/[2Pat res.txt[17@sed -i 's/(I)/ 0 /g'[C[C[C[C[C[C[C[C[1@FE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksed -i 's/(P)/ 5 /g' res.txtC)/ 6[C[C[C[C[C[C[C[C[C[C[C[CB)/ 7[C[C[C[C[C[C[C[C[C[C[C[C[1@+)/ 8[C[C[C[C[C[C[C[C[C[C[C[C[1@A)/ 8.5[C[C[C[C[C[C[C[C[C[C[C[C[1P+)/ 9[C[C[C[C[C[C[C[C[C[C[C[CO)/ 10[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Pcat>resu.txtgrep -a3 'CHN17CS' res.txt[15Pcat[C[C[C[C[C[C[C[C[22@pdftotext  result_CHN.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcd Downloads[6Pscriptcat>resu.txtgrep -a3 'CHN17CS' res.txt[3P'^[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"CHN17CS"[C[C[C[C[C[C[C[C[11Pcat[C[C[C[C[C[C[C[C[21@pdftotext result_CHN.pdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pcd Downloads[6Pscript[2Pexitgrep --no-group-separator -A3 'CHN17CS' result_CHN.txt || tr '\n' ' ' | sed 's/\ CHN/\nCHN/g' > result.txt [Ae
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[22Ppdftotext -nopgbrk result_CHN.pdf
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pcd Downloads/pdftotext result_CHN.pdf[12Pcd Downloadsls[Kcd downloads[1PDesktop/[3Ppoweroffls[Kmkdir from_srls[Kcd s4d_21/ls[Kcd ~/home/cs17d21[9Psudo suping--c -- c[1Pc[1Pc[8Ppingexit()sudo suroute add default gw 192.168.0.20[Kifconfig wlan0 upeth0 192.168.0.20[17Pauto eth0[1Pifconfig eth0[2P-aeth0[2P-aq[Kgedit result.txt &ls[Kcd env1s4d_21/[K-ls ld\\[3Plscd env2ls[Kcd s4d_21/ls[Kgedit result.txt &ls[Kgedit result.tx[2P./process.sh l[Kchmod u+x process.shls[Kcd env3ls[Kcd s4d_21/ls[Kcd./process.sh ls[K[K[K
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ awk '{s=$3*4+$6*4$9[K[K+$9*4+$12*3+$15*3+$!11111!!!!!!!!!!!!! !!11[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K18*3+$21*1+$24*1+$2 4[K7*1}{r=s/24}{print r}' result1.txt >sgpa.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ cat sgpa.txt
+7.70833
+7.8125
+7.08333
+7.27083
+6.97917
+8.58333
+3.85417
+7.3125
+6.85417
+5.5
+7.54167
+8.375
+6.47917
+5.25
+6.29167
+8.54167
+2.39583
+8.66667
+6.16667
+7.08333
+1.97917
+3.79167
+8.875
+5.8125
+7.60417
+7.89583
+8.14583
+3.41667
+8.75
+4.5
+6.97917
+6.60417
+3.625
+8.54167
+4.875
+2.66667
+6.625
+8.58333
+6.41667
+5.875
+3.91667
+8.08333
+2.91667
+3.5
+2.9375
+8.54167
+8.45833
+7.6875
+3.75
+8.6875
+6.29167
+5.83333
+4.875
+8.33333
+7.77083
+7.29167
+6.25
+7.52083
+7.8125
+7.83333
+7.58333
+1.79167
+5.77083
+7.22917
+8.25
+8.20833
+3.45833
+4.375
+1.83333
+2.04167
+6.77083
+4.58333
+8.14583
+1.75
+8.1875
+7.97917
+6.14583
+4.54167
+6.77083
+7.27083
+8.75
+7.16667
+3.83333
+6.14583
+4.70833
+8.1875
+4.70833
+7.64583
+8.08333
+7.9375
+5.95833
+8.83333
+9.1875
+6.5625
+6.0625
+6
+5.95833
+7.89583
+7.25
+4.79167
+1.875
+7.3125
+1.77083
+7.0625
+6.70833
+7.35417
+5.875
+7.41667
+8.0625
+6.8125
+7.6875
+8
+4.625
+2.77083
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ paste -d '\t \t[C[C[Kt ' result1.txt sgpa.txt
+CHN17CS001  MA101 8.5 , PH100 8 , BE100 7 , BE10105 8 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8 , CS110 8.5  7.70833
+CHN17CS002  MA101 8.5 , PH100 8 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 8 , EE110 8 , CS110 7  7.8125
+CHN17CS003  MA101 8 , PH100 7 , BE100 6 , BE10105 6 , BE103 9 , EE100 6 , PH110 8 , EE110 8 , CS110 7  7.08333
+CHN17CS004  MA101 7 , PH100 6 , BE100 8 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10  7.27083
+CHN17CS005  MA101 6 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8  6.97917
+CHN17CS006  MA101 10 , PH100 8 , BE100 9 , BE10105 7 , BE103 9 , EE100 8 , PH110 9 , EE110 8 , CS110 9  8.58333
+CHN17CS007  MA101 0 , PH100 6 , BE100 5 , BE10105 0 , BE103 8 , EE100 0 , PH110 8.5 , EE110 8 , CS110 8  3.85417
+CHN17CS008  MA101 7 , PH100 7 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 9 , EE110 8 , CS110 7  7.3125
+CHN17CS009  MA101 8.5 , PH100 8.5 , BE100 7 , BE10105 0 , BE103 9 , EE100 6 , PH110 8.5 , EE110 8 , CS110 7  6.85417
+CHN17CS010  MA101 0 , PH100 6 , BE100 7 , BE10105 6 , BE103 7 , EE100 6 , PH110 8 , EE110 8 , CS110 7  5.5
+CHN17CS011  MA101 6 , PH100 7 , BE100 7 , BE10105 8 , BE103 9 , EE100 8 , PH110 9 , EE110 8.5 , CS110 8.5  7.54167
+CHN17CS012  MA101 8 , PH100 9 , BE100 8 , BE10105 8 , BE103 9 , EE100 8 , PH110 9 , EE110 9 , CS110 8  8.375
+CHN17CS013  MA101 0 , PH100 7 , BE100 7 , BE10105 8.5 , BE103 8.5 , EE100 7 , PH110 9 , EE110 8.5 , CS110 10  CHN17CS014  MA101 0 , PH100 7 , BE100 0 , BE10105 8 , BE103 8 , EE100 6 , PH110 8.5 , EE110 9 , CS110 8  6.47917
+CHN17CS015  MA101 0 , PH100 8 , BE100 6 , BE10105 0 , BE103 8.5 , EE100 7 , PH110 9 , EE110 8.5 , CS110 6  5.25
+CHN17CS016  MA101 7 , PH100 8 , BE100 6 , BE10105 0 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8.5 , CS110 8  6.29167
+CHN17CS017  MA101 8 , PH100 8.5 , BE100 8 , BE10105 9 , BE103 9 , EE100 8.5 , PH110 9 , EE110 8.5 , CS110 10  8.54167
+CHN17CS018  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 6 , EE100 5 , PH110 8 , EE110 8 , CS110 8.5  2.39583
+CHN17CS019  MA101 8.5 , PH100 9 , BE100 8 , BE10105 9 , BE103 8.5 , EE100 8.5 , PH110 10 , EE110 8 , CS110 10  8.66667
+CHN17CS020  MA101 8 , PH100 6 , BE100 7 , BE10105 0 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 8  6.16667
+CHN17CS021  MA101 7 , PH100 6 , BE100 7 , BE10105 8 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 10  7.08333
+CHN17CS022  MA101 0 , PH100 6 , BE100 0 , BE10105 0 , BE103 0 , EE100 0 , PH110 8 , EE110 7 , CS110 8.5  1.97917
+CHN17CS023  MA101 0 , PH100 6 , BE100 0 , BE10105 0 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 8  3.79167
+CHN17CS024  MA101 8 , PH100 9 , BE100 10 , BE10105 9 , BE103 9 , EE100 8 , PH110 9 , EE110 8 , CS110 10  8.875
+CHN17CS025  MA101 0 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8 , CS110 7  5.8125
+CHN17CS026  MA101 6 , PH100 8 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 6 , PH110 10 , EE110 8.5 , CS110 8.5  7.60417
+CHN17CS027  MA101 8.5 , PH100 7 , BE100 7 , BE10105 8 , BE103 9 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10  7.89583
+CHN17CS028  MA101 8 , PH100 8 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 8 , PH110 9 , EE110 8 , CS110 9  8.14583
+CHN17CS029  MA101 0 , PH100 0 , BE100 0 , BE10105 6 , BE103 8 , EE100 5 , PH110 8 , EE110 8.5 , CS110 8.5  3.41667
+CHN17CS030  MA101 9 , PH100 8.5 , BE100 9 , BE10105 9 , BE103 8 , EE100 8 , PH110 10 , EE110 9 , CS110 10  8.75
+CHN17CS031  MA101 0 , PH100 6 , BE100 0 , BE10105 6 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 8  CHN17CS032  MA101 0 , PH100 6 , BE100 6 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 8.5 , CS110 9  4.5
+CHN17CS033  MA101 8 , PH100 8.5 , BE100 8 , BE10105 0 , BE103 7 , EE100 8 , PH110 9 , EE110 8.5 , CS110 7  6.97917
+CHN17CS034  MA101 7 , PH100 8 , BE100 7 , BE10105 0 , BE103 9 , EE100 6 , PH110 8.5 , EE110 8 , CS110 9  6.60417
+CHN17CS035  MA101 0 , PH100 6 , BE100 0 , BE10105 0 , BE103 7 , EE100 6 , PH110 8 , EE110 8 , CS110 8  3.625
+CHN17CS036  MA101 8 , PH100 9 , BE100 9 , BE10105 8 , BE103 10 , EE100 7 , PH110 9 , EE110 9 , CS110 8  8.54167
+CHN17CS037  MA101 0 , PH100 0 , BE100 6 , BE10105 8 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8.5 , CS110 10  4.875
+CHN17CS038  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 6 , PH110 8 , EE110 8.5 , CS110 8.5  2.66667
+CHN17CS039  MA101 7 , PH100 0 , BE100 8 , BE10105 8.5 , BE103 8.5 , EE100 8 , PH110 8 , EE110 8 , CS110 8  6.625
+CHN17CS040  MA101 8 , PH100 8.5 , BE100 8.5 , BE10105 8.5 , BE103 10 , EE100 8 , PH110 10 , EE110 8 , CS110 8.5  8.58333
+CHN17CS041  MA101 8 , PH100 0 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 8 , EE110 8.5 , CS110 10  6.41667
+CHN17CS042  MA101 6 , PH100 0 , BE100 6 , BE10105 8 , BE103 9 , EE100 6 , PH110 8 , EE110 8 , CS110 8  5.875
+CHN17CS043  MA101 0 , PH100 0 , BE100 7 , BE10105 0 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 8  3.91667
+CHN17CS044  MA101 8 , PH100 7 , BE100 8 , BE10105 8 , BE103 10 , EE100 7 , PH110 9 , EE110 8 , CS110 10  8.08333
+CHN17CS045  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 9 , EE100 6 , PH110 8 , EE110 8 , CS110 9  2.91667
+CHN17CS046  MA101 0 , PH100 0 , BE100 6 , BE10105 0 , BE103 6 , EE100 6 , PH110 8 , EE110 8 , CS110 8  3.5
+CHN17CS047  MA101 0 , PH100 0 , BE100 0 , BE10105 7 , BE103 8.5 , EE100 0 , PH110 8 , EE110 8 , CS110 8  2.9375
+CHN17CS048  MA101 7 , PH100 7 , BE100 10 , BE10105 9 , BE103 10 , EE100 8.5 , PH110 8.5 , EE110 8 , CS110 10  8.54167
+CHN17CS049  MA101 8 , PH100 9 , BE100 7 , BE10105 10 , BE103 9 , EE100 8 , PH110 9 , EE110 9 , CS110 8  CHN17CS050  MA101 7 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 6 , PH110 9 , EE110 9 , CS110 8  8.45833
+CHN17CS051  MA101 7 , PH100 7 , BE100 8 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 9 , EE110 7 , CS110 10  7.6875
+CHN17CS052  MA101 0 , PH100 0 , BE100 0 , BE10105 8 , BE103 8 , EE100 5 , PH110 8 , EE110 9 , CS110 10  3.75
+CHN17CS053  MA101 10 , PH100 8 , BE100 8.5 , BE10105 7 , BE103 8.5 , EE100 9 , PH110 10 , EE110 9 , CS110 10  8.6875
+CHN17CS054  MA101 7 , PH100 7 , BE100 0 , BE10105 8 , BE103 8 , EE100 7 , PH110 8 , EE110 8 , CS110 10  6.29167
+CHN17CS055  MA101 0 , PH100 6 , BE100 7 , BE10105 6 , BE103 8.5 , EE100 6 , PH110 8.5 , EE110 8 , CS110 10  5.83333
+CHN17CS056  MA101 0 , PH100 7 , BE100 0 , BE10105 7 , BE103 8.5 , EE100 6 , PH110 8.5 , EE110 8 , CS110 8  4.875
+CHN17CS057  MA101 8 , PH100 8 , BE100 8 , BE10105 8.5 , BE103 9 , EE100 8 , PH110 9 , EE110 8.5 , CS110 10  8.33333
+CHN17CS058  MA101 7 , PH100 8 , BE100 7 , BE10105 8 , BE103 9 , EE100 7 , PH110 8.5 , EE110 8 , CS110 10  7.77083
+CHN17CS059  MA101 8 , PH100 8 , BE100 5 , BE10105 7 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8.5 , CS110 8  7.29167
+CHN17CS060  MA101 7 , PH100 7 , BE100 0 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 8 , EE110 8.5 , CS110 10  6.25
+CHN17CS061  MA101 7 , PH100 7 , BE100 7 , BE10105 8 , BE103 8 , EE100 7 , PH110 9 , EE110 10 , CS110 8.5  7.52083
+CHN17CS062  MA101 9 , PH100 8 , BE100 7 , BE10105 8 , BE103 7 , EE100 7 , PH110 9 , EE110 8.5 , CS110 8  7.8125
+CHN17CS063  MA101 8 , PH100 8 , BE100 7 , BE10105 7 , BE103 9 , EE100 7 , PH110 8.5 , EE110 8.5 , CS110 10  7.83333
+CHN17CS064  MA101 8 , PH100 8 , BE100 7 , BE10105 8 , BE103 7 , EE100 6 , PH110 10 , EE110 7 , CS110 10  7.58333
+CHN17CS065  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 0 , PH110 8 , EE110 8 , CS110 6  1.79167
+CHN17CS066  MA101 0 , PH100 6 , BE100 6 , BE10105 7 , BE103 8.5 , EE100 7 , PH110 8 , EE110 8 , CS110 7  5.77083
+CHN17CS067  MA101 7 , PH100 7 , BE100 6 , BE10105 8 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8  CHN17CS068  MA101 7 , PH100 8 , BE100 7 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8 , CS110 9  7.22917
+CHN17CS069  MA101 8 , PH100 8.5 , BE100 8 , BE10105 8.5 , BE103 9 , EE100 7 , PH110 8.5 , EE110 8 , CS110 10  8.25
+CHN17CS070  MA101 8.5 , PH100 8.5 , BE100 8 , BE10105 6 , BE103 10 , EE100 7 , PH110 10 , EE110 9 , CS110 9  8.20833
+CHN17CS071  MA101 0 , PH100 0 , BE100 0 , BE10105 7 , BE103 6 , EE100 6 , PH110 8 , EE110 8 , CS110 10  3.45833
+CHN17CS072  MA101 0 , PH100 7 , BE100 0 , BE10105 6 , BE103 6 , EE100 6 , PH110 8 , EE110 7 , CS110 8  4.375
+CHN17CS073  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 0 , PH110 8 , EE110 8 , CS110 7  1.83333
+CHN17CS074  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 8 , EE100 0 , PH110 8 , EE110 8 , CS110 9  2.04167
+CHN17CS075  MA101 7 , PH100 7 , BE100 6 , BE10105 6 , BE103 8 , EE100 5 , PH110 8.5 , EE110 8 , CS110 9  6.77083
+CHN17CS076  MA101 0 , PH100 7 , BE100 6 , BE10105 0 , BE103 6 , EE100 5 , PH110 8 , EE110 8.5 , CS110 8.5  4.58333
+CHN17CS077  MA101 8 , PH100 8.5 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 10  8.14583
+CHN17CS078  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 6 , EE100 0 , PH110 8 , EE110 8 , CS110 8  1.75
+CHN17CS079  MA101 9 , PH100 8 , BE100 8 , BE10105 8 , BE103 8 , EE100 7 , PH110 9 , EE110 8.5 , CS110 10  8.1875
+CHN17CS080  MA101 8 , PH100 7 , BE100 8 , BE10105 9 , BE103 8 , EE100 7 , PH110 8.5 , EE110 9 , CS110 10  7.97917
+CHN17CS081  MA101 8 , PH100 6 , BE100 6 , BE10105 8 , BE103 7 , EE100 0 , PH110 8.5 , EE110 7 , CS110 7  6.14583
+CHN17CS082  MA101 6 , PH100 0 , BE100 0 , BE10105 6 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 9  4.54167
+CHN17CS083  MA101 7 , PH100 6 , BE100 6 , BE10105 7 , BE103 7 , EE100 6 , PH110 8.5 , EE110 8 , CS110 10  6.77083
+CHN17CS084  MA101 7 , PH100 7 , BE100 6 , BE10105 8 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 8.5  7.27083
+CHN17CS085  MA101 8.5 , PH100 10 , BE100 10 , BE10105 7 , BE103 8 , EE100 8 , PH110 9 , EE110 8 , CS110 10  CHN17CS086  MA101 0 , PH100 0 , BE100 0 , BE10105 7 , BE103 7 , EE100 6 , PH110 9 , EE110 8.5 , CS110 8.5  8.75
+CHN17CS087  MA101 6 , PH100 7 , BE100 6 , BE10105 8.5 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 8.5  7.16667
+CHN17CS088  MA101 0 , PH100 0 , BE100 0 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 8 , CS110 10  3.83333
+CHN17CS089  MA101 8.5 , PH100 6 , BE100 7 , BE10105 6 , BE103 6 , EE100 0 , PH110 8.5 , EE110 7 , CS110 10  6.14583
+CHN17CS090  MA101 0 , PH100 5 , BE100 0 , BE10105 8 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 10  4.70833
+CHN17CS091  MA101 8 , PH100 9 , BE100 8 , BE10105 8.5 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 9  8.1875
+CHN17CS092  MA101 0 , PH100 7 , BE100 0 , BE10105 6 , BE103 7 , EE100 7 , PH110 9 , EE110 8 , CS110 8  4.70833
+CHN17CS093  MA101 9 , PH100 6 , BE100 8 , BE10105 9 , BE103 7 , EE100 6 , PH110 8.5 , EE110 8 , CS110 9  7.64583
+CHN17CS094  MA101 8 , PH100 8 , BE100 7 , BE10105 9 , BE103 8 , EE100 8 , PH110 9 , EE110 8 , CS110 10  8.08333
+CHN17CS095  MA101 6 , PH100 8 , BE100 8 , BE10105 8 , BE103 8.5 , EE100 8 , PH110 9 , EE110 10 , CS110 10  7.9375
+CHN17CS096  MA101 7 , PH100 6 , BE100 5 , BE10105 7 , BE103 8 , EE100 0 , PH110 9 , EE110 8.5 , CS110 8.5  5.95833
+CHN17CS097  MA101 8.5 , PH100 8.5 , BE100 9 , BE10105 10 , BE103 8.5 , EE100 8.5 , PH110 9 , EE110 8 , CS110 10  8.83333
+CHN17CS098  MA101 10 , PH100 10 , BE100 8.5 , BE10105 8.5 , BE103 10 , EE100 8.5 , PH110 10 , EE110 8.5 , CS110 7  9.1875
+CHN17CS099  MA101 8 , PH100 7 , BE100 6 , BE10105 8 , BE103 8 , EE100 0 , PH110 9 , EE110 8 , CS110 8.5  6.5625
+CHN17CS100  MA101 0 , PH100 7 , BE100 7 , BE10105 7 , BE103 7 , EE100 7 , PH110 9 , EE110 9 , CS110 8.5  6.0625
+CHN17CS101  MA101 0 , PH100 7 , BE100 7 , BE10105 7 , BE103 8 , EE100 5 , PH110 9 , EE110 9 , CS110 10  6
+CHN17CS102  MA101 7 , PH100 6 , BE100 7 , BE10105 0 , BE103 8 , EE100 5 , PH110 9 , EE110 8 , CS110 7  5.95833
+CHN17CS103  MA101 7 , PH100 8 , BE100 8 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 9 , EE110 8 , CS110 10  CHN17CS104  MA101 7 , PH100 7 , BE100 6 , BE10105 9 , BE103 9 , EE100 6 , PH110 9 , EE110 8 , CS110 10  7.89583
+CHN17CS105  MA101 7 , PH100 7 , BE100 7 , BE10105 7 , BE103 8 , EE100 7 , PH110 9 , EE110 7 , CS110 8  7.25
+CHN17CS106  MA101 7 , PH100 6 , BE100 0 , BE10105 0 , BE103 7 , EE100 5 , PH110 8 , EE110 9 , CS110 10  4.79167
+CHN17CS107  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 7 , EE100 0 , PH110 8 , EE110 8 , CS110 8  1.875
+CHN17CS108  MA101 8 , PH100 8 , BE100 6 , BE10105 6 , BE103 8 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8  7.3125
+CHN17CS109  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 6 , EE100 0 , PH110 8 , EE110 8.5 , CS110 8  1.77083
+CHN17CS110  MA101 6 , PH100 8 , BE100 6 , BE10105 6 , BE103 8.5 , EE100 7 , PH110 8.5 , EE110 8 , CS110 8.5  7.0625
+CHN17CS111  MA101 7 , PH100 8 , BE100 0 , BE10105 9 , BE103 9 , EE100 7 , PH110 9 , EE110 8 , CS110 9  6.70833
+CHN17CS112  MA101 8 , PH100 8 , BE100 6 , BE10105 6 , BE103 8 , EE100 7 , PH110 9 , EE110 8.5 , CS110 8  7.35417
+CHN17CS113  MA101 0 , PH100 7 , BE100 7 , BE10105 6 , BE103 8 , EE100 6 , PH110 8 , EE110 9 , CS110 8  5.875
+CHN17CS114  MA101 7 , PH100 8 , BE100 7 , BE10105 6 , BE103 8 , EE100 7 , PH110 9 , EE110 8 , CS110 10  7.41667
+CHN17CS115  MA101 7 , PH100 8 , BE100 8.5 , BE10105 8 , BE103 8.5 , EE100 7 , PH110 10 , EE110 9 , CS110 10  8.0625
+CHN17CS116  MA101 0 , PH100 8.5 , BE100 7 , BE10105 8.5 , BE103 9 , EE100 7 , PH110 10 , EE110 8 , CS110 10  6.8125
+CHN17CS117  MA101 8 , PH100 7 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 10 , EE110 9 , CS110 10  7.6875
+CHN17CS118  MA101 7 , PH100 8.5 , BE100 8.5 , BE10105 6 , BE103 8 , EE100 8 , PH110 10 , EE110 10 , CS110 10  8
+CHN17CS119  MA101 0 , PH100 6 , BE100 0 , BE10105 7 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 10  4.625
+CHN17CS120  MA101 0 , PH100 0 , BE100 0 , BE10105 0 , BE103 8 , EE100 6 , PH110 8.5 , EE110 8 , CS110 8   2.77083
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ exit
+exit
+
+Script done on Thursday 14 March 2019 12:03:49 PM IST
