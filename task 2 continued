@@ -59,7 +59,9 @@ CHN17CS116  MA101 0 , PH100 8.5 , BE100 7 , BE10105 8.5 , BE103 9 , EE100 7 , PH
 CHN17CS117  MA101 8 , PH100 7 , BE100 7 , BE10105 8 , BE103 8.5 , EE100 6 , PH110 10 , EE110 9 , CS110 10 
 CHN17CS118  MA101 7 , PH100 8.5 , BE100 8.5 , BE10105 6 , BE103 8 , EE100 8 , PH110 10 , EE110 10 , CS110 10 
 CHN17CS119  MA101 0 , PH100 6 , BE100 0 , BE10105 7 , BE103 7 , EE100 6 , PH110 9 , EE110 8 , CS110 10 
-]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ awk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}'[K]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ awk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}'  s4dresults.txt>sgpa.txt
+]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ awk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}'
+[K]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ awk '{s=$3+$6+$9+$12+$15+$18+$21+$24}{r=s/8}{print r}'  
+s4dresults.txt>sgpa.txt
 ]0;s4d1@CC2-24: ~/Downloadss4d1@CC2-24:~/Downloads$ cat sgpa.txt
 7.4375
 8.5
