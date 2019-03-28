@@ -1,0 +1,83 @@
+Script started on Thursday 28 March 2019 11:30:14 AM IST
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sftp cs17d38@192.186[K[K68.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d38@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> ls
+examples.desktop    
+sftp> lls
+apple  csresult.txt  Downloads	       new	 s4d_21     task5	Videos
+a.txt  Desktop	     examples.desktop  Pictures  serv_sync  Templates
+cs232  Documents     Music	       Public	 task2	    typescript
+sftp> version
+SFTP protocol version 3
+sftp> help
+Available commands:
+bye                                Quit sftp
+cd path                            Change remote directory to 'path'
+chgrp grp path                     Change group of file 'path' to 'grp'
+chmod mode path                    Change permissions of file 'path' to 'mode'
+chown own path                     Change owner of file 'path' to 'own'
+df [-hi] [path]                    Display statistics for current directory or
+                                   filesystem containing 'path'
+exit                               Quit sftp
+get [-Ppr] remote [local]          Download file
+reget remote [local]		Resume download file
+help                               Display this help text
+lcd path                           Change local directory to 'path'
+lls [ls-options [path]]            Display local directory listing
+lmkdir path                        Create local directory
+ln [-s] oldpath newpath            Link remote file (-s for symlink)
+lpwd                               Print local working directory
+ls [-1afhlnrSt] [path]             Display remote directory listing
+lumask umask                       Set local umask to 'umask'
+mkdir path                         Create remote directory
+progress                           Toggle display of progress meter
+put [-Ppr] local [remote]          Upload file
+pwd                                Display remote working directory
+quit                               Quit sftp
+rename oldpath newpath             Rename remote file
+rm path                            Delete remote file
+rmdir path                         Remove remote directory
+symlink oldpath newpath            Symlink remote file
+version                            Show SFTP version
+!command                           Execute 'command' in local shell
+!                                  Escape to local shell
+?                                  Synonym for help
+sftp> eg[K[Kput a.txt
+Uploading a.txt to /home/cs17d38/a.txt
+a.txt                                           0%    0     0.0KB/s   --:-- ETAa.txt                                         100%   10     0.0KB/s   00:00    
+sftp> ls
+a.txt               examples.desktop    
+sftp> re[Km a.txt
+Removing /home/cs17d38/a.txt
+sftp> get ex[Ksftp> get examples.desktop 
+Fetching /home/cs17d38/examples.desktop to examples.desktop
+/home/cs17d38/examples.desktop                  0%    0     0.0KB/s   --:-- ETA/home/cs17d38/examples.desktop                100% 8980     8.8KB/s   00:00    
+sftp> lls
+apple  csresult.txt  Downloads	       new	 s4d_21     task5	Videos
+a.txt  Desktop	     examples.desktop  Pictures  serv_sync  Templates
+cs232  Documents     Music	       Public	 task2	    typescript
+sftp> df [-h] i]] [path]
+sftp> pwd
+Remote working directory: /home/cs17d38
+sftp> mkdir patg[Kh
+sftp> mkdir cs17d38
+sftp> pwd
+Remote working directory: /home/cs17d38
+sftp> cd path
+sftp> cd DOWNLOADS[K[K[K[K[K[K[K[K[KDownloads
+Couldn't stat remote file: No such file or directory
+sftp> lls
+apple  csresult.txt  Downloads	       new	 s4d_21     task5	Videos
+a.txt  Desktop	     examples.desktop  Pictures  serv_sync  Templates
+cs232  Documents     Music	       Public	 task2	    typescript
+sftp> bye
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ exit
+exit
+
+Script done on Thursday 28 March 2019 11:38:22 AM IST
