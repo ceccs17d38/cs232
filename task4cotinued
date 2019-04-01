@@ -1,0 +1,78 @@
+Script started on Monday 01 April 2019 10:24:50 AM IST
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ ssh cs17d38@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d38@192.168.0.30's password: 
+Permission denied, please try again.
+cs17d38@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Apr  1 10:13:04 2019 from 192.168.0.214
+$ scp     ls
+apple.txt  cs17d38  examples.desktop  path
+$ cat apple.txt
+t
+r
+u
+e
+$ pwd
+/home/cs17d38
+$ du appple.    le.txt
+4	apple.txt
+$ find apple.txt
+apple.txt
+$ rm apple.txt
+$ ls
+cs17d38  examples.desktop  path
+$ scp apple.txt cs17d38@192.168.0.30
+cp: cannot stat 'apple.txt': No such file or directory
+$ passwd
+Changing password for cs17d38.
+(current) UNIX password: 
+Enter new UNIX password: 
+Retype new UNIX password: 
+passwd: password updated successfully
+$ touch newfile.txt
+$ cat>newfilw.  e.txt
+new file is created:)
+^C
+$ cat newfile.txt
+new file is created:)
+$ ls
+cs17d38  examples.desktop  newfile.txt	path
+$ du newfile.txt
+4	newfile.txt
+$ wget
+wget: missing URL
+Usage: wget [OPTION]... [URL]...
+
+Try `wget --help' for more options.
+$ wget ^^?    http://192.168.0.30/s4d/232/CS232.FOSS.Lab.pdf
+--2019-04-01 10:44:48--  http://192.168.0.30/s4d/232/CS232.FOSS.Lab.pdf
+Connecting to 192.168.0.30:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 235876 (230K) [application/pdf]
+Saving to: ‘CS232.FOSS.Lab.pdf’
+
+CS232.FOSS.Lab.pdf           0%[                                       ]       0  --.-KB/s               CS232.FOSS.Lab.pdf         100%[======================================>] 230.35K  --.-KB/s    in 0.001s  
+
+2019-04-01 10:44:48 (433 MB/s) - ‘CS232.FOSS.Lab.pdf’ saved [235876/235876]
+
+$ ld s
+cs17d38  CS232.FOSS.Lab.pdf  examples.desktop  newfile.txt  path
+$ du cs	^[[A     s232	.FOSS.Lab.pdf
+du: cannot access 'cs232.FOSS.Lab.pdf': No such file or directory
+$ exit
+Connection to 192.168.0.30 closed.
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ exit
+exit
+
+Script done on Monday 01 April 2019 10:46:32 AM IST
