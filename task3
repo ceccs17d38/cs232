@@ -1,0 +1,120 @@
+Script started on Thursday 25 April 2019 11:42:55 AM IST
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ ifconfig
+eth0      Link encap:Ethernet  HWaddr 38:d5:47:b8:da:8a  
+          inet addr:192.168.0.214  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::3ad5:47ff:feb8:da8a/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:248984 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:56200 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:139734551 (139.7 MB)  TX bytes:7463687 (7.4 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:767 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:767 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1 
+          RX bytes:233086 (233.0 KB)  TX bytes:233086 (233.0 KB)
+
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ if [Kconfig eth0
+eth0      Link encap:Ethernet  HWaddr 38:d5:47:b8:da:8a  
+          inet addr:192.168.0.214  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::3ad5:47ff:feb8:da8a/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:249373 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:56205 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:139759102 (139.7 MB)  TX bytes:7463985 (7.4 MB)
+
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ ifconfig lo
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:767 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:767 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1 
+          RX bytes:233086 (233.0 KB)  TX bytes:233086 (233.0 KB)
+
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ route
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+192.168.0.0     *               255.255.255.0   U     1      0        0 eth0
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ man ifconfig
+[?1049h[?1h=
+IFCONFIG(8)                                               Linux Programmer's Manual                                              IFCONFIG(8)[m
+[m
+[1mNAME[0m[m
+       ifconfig - configure a network interface[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mifconfig[0m [1m[-v][0m [1m[-a][0m [1m[-s][0m [1m[interface][0m[m
+       [1mifconfig[0m [1m[-v][0m [1minterface[0m [1m[aftype][0m [1moptions[0m [1m|[0m [1maddress[0m [1m...[0m[m
+[m
+[1mDESCRIPTION[0m[m
+       [1mIfconfig[0m  is  used  to  configure the kernel-resident network interfaces.  It is used at boot time to set up interfaces as necessary.[m
+       After that, it is usually only needed when debugging or when system tuning is needed.[m
+[m
+       If no arguments are given, [1mifconfig[0m displays the status of the currently active interfaces.  If a single [1minterface[0m argument is given,[m
+       it  displays the status of the given interface only; if a single [1m-a[0m argument is given, it displays the status of all interfaces, even[m
+       those that are down.  Otherwise, it configures an interface.[m
+[m
+[1mAddress[0m [1mFamilies[0m[m
+       If the first argument after the interface name is recognized as the name of a supported address family, that address family  is  used[m
+       for  decoding  and  displaying  all  protocol  addresses.  Currently supported address families include [1minet[0m (TCP/IP, default), [1minet6[0m[m
+       (IPv6), [1max25[0m (AMPR Packet Radio), [1mddp[0m (Appletalk Phase 2), [1mipx[0m (Novell IPX) and [1mnetrom[0m (AMPR Packet radio).[m
+[m
+[1mOPTIONS[0m[m
+       [1m-a[0m     display all interfaces which are currently available, even if down[m
+[m
+       [1m-s[0m     display a short list (like netstat -i)[m
+[m
+       [1m-v[0m     be more verbose for some error conditions[m
+[m
+       [1minterface[0m[m
+              The name of the interface.  This is usually a driver name followed by a unit number, for example [1meth0[0m for the  first  Ethernet[m
+              interface. If your kernel supports alias interfaces, you can specify them with [1meth0:0[0m for the first alias of eth0. You can use[m
+              them to assign a second address. To delete an alias interface use [1mifconfig[0m [1meth0:0[0m [1mdown[0m.  Note: for every scope (i.e. same  net[m
+              with address/netmask combination) all aliases are deleted, if you delete the first (primary).[m
+[m
+       [1mup[0m     This flag causes the interface to be activated.  It is implicitly specified if an address is assigned to the interface.[m
+[m
+       [1mdown[0m   This flag causes the driver for this interface to be shut down.[m
+[m
+       [1m[-]arp[0m Enable or disable the use of the ARP protocol on this interface.[m
+[7m Manual page ifconfig(8) line 1 (press h for help or q to quit)[27m[K
+[K[?1l>[?1049l]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ if config lo netmask 255.255.255.0
+> 
+> ^C
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo [31@if config lo netmask 255.255.255.0;[C[C[C[C[1P [1@s[1@u[1@d[1@o[1@ 
+[sudo] password for s4d1: 
+sudo: if: command not found
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo if config lo netmask 255.255.255.0 [C[1P
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ ifconfih[Kf[Kg lo
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.255.255.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:767 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:767 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1 
+          RX bytes:233086 (233.0 KB)  TX bytes:233086 (233.0 KB)
+
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ ifcong[Kfig lo 14.139.189.217[1@s[1@u[1@d[1@o[1@ 
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo ifconfig lo 14.139.189.217
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pifconfig lo
+lo        Link encap:Local Loopback  
+          inet addr:14.139.189.217  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:767 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:767 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1 
+          RX bytes:233086 (233.0 KB)  TX bytes:233086 (233.0 KB)
+
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ exit
+exit
+
+Script done on Thursday 25 April 2019 11:52:24 AM IST
