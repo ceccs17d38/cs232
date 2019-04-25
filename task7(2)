@@ -1,9 +1,34 @@
 Script started on Thursday 25 April 2019 10:34:31 AM IST
-]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [K]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo a[K[K[K[K[K[Ksudo apt install nginx
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ 
+[K]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo a[K[K[K[K[K[Ksudo apt install nginx
 [sudo] password for s4d1: 
-Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
-Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 1%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
-Reading state information... 0%Reading state information... 0%Reading state information... Done
+
+Reading package lists... 0%
+
+Reading package lists... 100%
+
+Reading package lists... Done
+
+
+Building dependency tree... 0%
+
+Building dependency tree... 0%
+
+Building dependency tree... 1%
+
+Building dependency tree... 50%
+
+Building dependency tree... 50%
+
+Building dependency tree       
+
+
+Reading state information... 0%
+
+Reading state information... 0%
+
+Reading state information... Done
+
 nginx is already the newest version.
 The following packages were automatically installed and are no longer required:
   apache2-bin apache2-data libapr1 libaprutil1 libaprutil1-dbd-sqlite3
