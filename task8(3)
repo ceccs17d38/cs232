@@ -1,0 +1,660 @@
+Script started on Monday 29 April 2019 09:56:06 AM IST
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sut[Kdo apt install apache2
+[sudo] password for s4d1: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+apache2 is already the newest version.
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo apt install mysql-server
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+mysql-server is already the newest version.
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo apt install php-pear php-fpm php-dev php-zip php-curl php-xm lrpc php-gd php-mysql php-mbstring php-xml libapache2-mod-php
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+E: Unable to locate package php-fpm
+E: Unable to locate package php-dev
+E: Unable to locate package php-zip
+E: Unable to locate package php-curl
+E: Unable to locate package php-xmlrpc
+E: Unable to locate package php-gd
+E: Unable to locate package php-mysql
+E: Unable to locate package php-mbstring
+E: Unable to locate package php-xml
+E: Unable to locate package libapache2-mod-php
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo servid[Kce apache2 restart
+ * Restarting web server apache2       [80G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+^Z
+[1]+  Stopped                 sudo service apache2 restart
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo service apache2 restart[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install php-pear php-fpm php-dev php-zip php-curl php-xmllrpc php-gd php-mysql php-mbstring php-xml libapache2-mod-php[Amysql-server[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5Papache2[1@-[1@g[1@e[1@t
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+apache2 is already the newest version.
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo apt-get install mysql-server libapache2-mod-auth-mysql php5- mysql
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+mysql-server is already the newest version.
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+The following extra packages will be installed:
+  php5-common php5-json
+Suggested packages:
+  php5-user-cache
+The following NEW packages will be installed:
+  libapache2-mod-auth-mysql php5-common php5-json php5-mysql
+0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+E: Could not get lock /var/cache/apt/archives/lock - open (11: Resource temporarily unavailable)
+E: Unable to lock directory /var/cache/apt/archives/
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo killall apt-get
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo killall apt-getapt-get install mysql-server libapache2-mod-auth-mysql php5-mmysql
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+mysql-server is already the newest version.
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+The following extra packages will be installed:
+  php5-common php5-json
+Suggested packages:
+  php5-user-cache
+The following NEW packages will be installed:
+  libapache2-mod-auth-mysql php5-common php5-json php5-mysql
+0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+E: Could not get lock /var/cache/apt/archives/lock - open (11: Resource temporarily unavailable)
+E: Unable to lock directory /var/cache/apt/archives/
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mmysql[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\ install mysql-server libapache2-mod-auth-mysql php5-mysql[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C\ install mysql-server libapache2-mod-auth-mysql php5-mysql[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C install mysql-server libapache2-mod-auth-mysql php5-[1Pmysql[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C install mysql-server libapache2-mod-auth-mysql php5-m[1Pysql[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C[C[C[C[C install mysql-server libapache2-mod-auth-mysql php5-my[1Psql[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C[C[C[C install mysql-server libapache2-mod-auth-mysql php5-mys[1Pql[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C[C[C install mysql-server libapache2-mod-auth-mysql php5-mysq[1Pl[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C[C install mysql-server libapache2-mod-auth-mysql php5-mysql[K[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C
+
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+mysql-server is already the newest version.
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+The following extra packages will be installed:
+  php5-common php5-json
+Suggested packages:
+  php5-user-cache
+The following NEW packages will be installed:
+  libapache2-mod-auth-mysql php5-common php5-json php5-mysql
+0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+E: Could not get lock /var/cache/apt/archives/lock - open (11: Resource temporarily unavailable)
+E: Unable to lock directory /var/cache/apt/archives/
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo rm /var/lib/apt/lists/lock
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo rm /var/cache/apt/archives/lock
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo rm /var/lib/dpkg/lock
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo dpkg --configure -a
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo dpkg --configure -arm /var/lib/dpkg/lockcache/apt/archives/lock[5Plib/apt/lists/lock[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Capt install mysql-server libapache2-mod-auth-mysql php5-mysqll[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [C[C[C[C[C[C[C[C-get install mysql-server libapache2-mod-auth-mysql php5-mysql
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 5%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... 97%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+mysql-server is already the newest version.
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+The following extra packages will be installed:
+  php5-common php5-json
+Suggested packages:
+  php5-user-cache
+The following NEW packages will be installed:
+  libapache2-mod-auth-mysql php5-common php5-json php5-mysql
+0 upgraded, 4 newly installed, 0 to remove and 0 not upgraded.
+Need to get 570 kB of archives.
+After this operation, 1,731 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+0% [Working]            Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty/main php5-json amd64 1.3.2-2build1 [34.4 kB]
+            1% [1 php5-json 5,207 B/34.4 kB 15%]                                    6% [Working]            Get:2 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main php5-common amd64 5.5.9+dfsg-1ubuntu4.29 [452 kB]
+            7% [2 php5-common 6,654 B/452 kB 1%]                                    85% [Working]             Get:3 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main php5-mysql amd64 5.5.9+dfsg-1ubuntu4.29 [62.8 kB]
+             86% [3 php5-mysql 3,760 B/62.8 kB 6%]                                     96% [Working]             Get:4 http://in.archive.ubuntu.com/ubuntu/ trusty/main libapache2-mod-auth-mysql amd64 4.3.9-13.1ubuntu3 [20.9 kB]
+             96% [4 libapache2-mod-auth-mysql 0 B/20.9 kB 0%]                                                100% [Working]              Fetched 570 kB in 1s (345 kB/s)
+Selecting previously unselected package php5-json.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 274879 files and directories currently installed.)
+Preparing to unpack .../php5-json_1.3.2-2build1_amd64.deb ...
+Unpacking php5-json (1.3.2-2build1) ...
+Selecting previously unselected package php5-common.
+Preparing to unpack .../php5-common_5.5.9+dfsg-1ubuntu4.29_amd64.deb ...
+Unpacking php5-common (5.5.9+dfsg-1ubuntu4.29) ...
+Selecting previously unselected package php5-mysql.
+Preparing to unpack .../php5-mysql_5.5.9+dfsg-1ubuntu4.29_amd64.deb ...
+Unpacking php5-mysql (5.5.9+dfsg-1ubuntu4.29) ...
+Selecting previously unselected package libapache2-mod-auth-mysql.
+Preparing to unpack .../libapache2-mod-auth-mysql_4.3.9-13.1ubuntu3_amd64.deb ...
+Unpacking libapache2-mod-auth-mysql (4.3.9-13.1ubuntu3) ...
+Setting up libapache2-mod-auth-mysql (4.3.9-13.1ubuntu3) ...
+Setting up php5-common (5.5.9+dfsg-1ubuntu4.29) ...
+
+Creating config file /etc/php5/mods-available/pdo.ini with new version
+
+Creating config file /etc/php5/mods-available/opcache.ini with new version
+Setting up php5-mysql (5.5.9+dfsg-1ubuntu4.29) ...
+
+Creating config file /etc/php5/mods-available/mysql.ini with new version
+
+Creating config file /etc/php5/mods-available/mysqli.ini with new version
+
+Creating config file /etc/php5/mods-available/pdo_mysql.ini with new version
+Setting up php5-json (1.3.2-2build1) ...
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mmysql[A]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo mysql_install_db
+Installing MySQL system tables...
+190429 10:08:45 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+190429 10:08:45 [Note] Ignoring --secure-file-priv value as server is running with --bootstrap.
+190429 10:08:45 [Note] /usr/sbin/mysqld (mysqld 5.5.62-0ubuntu0.14.04.1) starting as process 9353 ...
+OK
+Filling help tables...
+190429 10:08:46 [Warning] Using unique option prefix key_buffer instead of key_buffer_size is deprecated and will be removed in a future release. Please use the full name instead.
+190429 10:08:46 [Note] Ignoring --secure-file-priv value as server is running with --bootstrap.
+190429 10:08:46 [Note] /usr/sbin/mysqld (mysqld 5.5.62-0ubuntu0.14.04.1) starting as process 9359 ...
+OK
+
+To start mysqld at boot time you have to copy
+support-files/mysql.server to the right place for your system
+
+PLEASE REMEMBER TO SET A PASSWORD FOR THE MySQL root USER !
+To do so, start the server, then issue the following commands:
+
+/usr/bin/mysqladmin -u root password 'new-password'
+/usr/bin/mysqladmin -u root -h CC2-24 password 'new-password'
+
+Alternatively you can run:
+/usr/bin/mysql_secure_installation
+
+which will also give you the option of removing the test
+databases and anonymous user created by default.  This is
+strongly recommended for production servers.
+
+See the manual for more instructions.
+
+You can start the MySQL daemon with:
+cd /usr ; /usr/bin/mysqld_safe &
+
+You can test the MySQL daemon with mysql-test-run.pl
+cd /usr/mysql-test ; perl mysql-test-run.pl
+
+Please report any problems at http://bugs.mysql.com/
+
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo /usr/bin/mysql_secure_installation
+
+
+
+
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MySQL
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+
+
+In order to log into MySQL to secure it, we'll need the current
+password for the root user.  If you've just installed MySQL, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+Aborting!
+
+Cleaning up...
+]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ sudo su
+[sudo] password for s4d1: 
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# ssh s4d1@192.168.0.153[1@ftp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Psh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ksudo /usr/bin/mysql_secure_installation
+
+
+
+
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MySQL
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+
+
+In order to log into MySQL to secure it, we'll need the current
+password for the root user.  If you've just installed MySQL, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+[1]+  Stopped                 sudo /usr/bin/mysql_secure_installation
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# mysql -u root
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# mysql -u root\[K[K[K[K[K
+mysql: option '-u' requires an argument
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# mysql -u   
+mysql: option '-u' requires an argument
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# mysql -u   [K[K[K[K[K
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# mysql -u root
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# mysql -u root     
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# mysql -u root            
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# mysql -u root            [K[K[K-u   [Krootsudo /usr/bin/mysql_secure_installation[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[17Psh s4d1@192.168.0.153[1@ftp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -p 22[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cifconfig[Ksftp s4d1@192.168.0.153exit[Kssh cs17d21@192.168.0.30[1@ftp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksudo /usr/bin/mysql_secure_installation
+
+
+
+
+NOTE: RUNNING ALL PARTS OF THIS SCRIPT IS RECOMMENDED FOR ALL MySQL
+      SERVERS IN PRODUCTION USE!  PLEASE READ EACH STEP CAREFULLY!
+
+
+In order to log into MySQL to secure it, we'll need the current
+password for the root user.  If you've just installed MySQL, and
+you haven't set the root password yet, the password will be blank,
+so you should just press enter here.
+
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+Enter current password for root (enter for none): 
+[2]+  Stopped                 sudo /usr/bin/mysql_secure_installation
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+The following extra packages will be installed:
+  libmcrypt4 php5-cli php5-readline
+Suggested packages:
+  php-pear libmcrypt-dev mcrypt
+The following NEW packages will be installed:
+  libapache2-mod-php5 libmcrypt4 php5 php5-cli php5-mcrypt php5-readline
+0 upgraded, 6 newly installed, 0 to remove and 0 not upgraded.
+Need to get 4,446 kB of archives.
+After this operation, 19.6 MB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+0% [Working]            Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main php5-cli amd64 5.5.9+dfsg-1ubuntu4.29 [2,155 kB]
+            0% [1 php5-cli 2,555 B/2,155 kB 0%]2% [1 php5-cli 86.5 kB/2,155 kB 4%]                                   10% [1 php5-cli 456 kB/2,155 kB 21%]                                    38% [1 php5-cli 1,681 kB/2,155 kB 78%]                                      48% [Working]             Get:2 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main php5-readline amd64 5.5.9+dfsg-1ubuntu4.29 [12.1 kB]
+             48% [2 php5-readline 0 B/12.1 kB 0%]                                    49% [Working]             Get:3 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main libapache2-mod-php5 amd64 5.5.9+dfsg-1ubuntu4.29 [2,200 kB]
+             49% [3 libapache2-mod-php5 0 B/2,200 kB 0%]                                           98% [Working]             Get:4 http://in.archive.ubuntu.com/ubuntu/ trusty/universe libmcrypt4 amd64 2.5.8-3.1ubuntu1 [61.9 kB]
+             98% [4 libmcrypt4 4,096 B/61.9 kB 7%]                                     100% [Working]              Get:5 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main php5 all 5.5.9+dfsg-1ubuntu4.29 [1,304 B]
+              100% [5 php5 1,304 B/1,304 B 100%]                                  100% [Working]              Get:6 http://in.archive.ubuntu.com/ubuntu/ trusty/universe php5-mcrypt amd64 5.4.6-0ubuntu5 [15.4 kB]
+              100% [6 php5-mcrypt 2,560 B/15.4 kB 17%]                                        100% [Working]              Fetched 4,446 kB in 3s (1,291 kB/s)
+Selecting previously unselected package php5-cli.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 274952 files and directories currently installed.)
+Preparing to unpack .../php5-cli_5.5.9+dfsg-1ubuntu4.29_amd64.deb ...
+Unpacking php5-cli (5.5.9+dfsg-1ubuntu4.29) ...
+Selecting previously unselected package php5-readline.
+Preparing to unpack .../php5-readline_5.5.9+dfsg-1ubuntu4.29_amd64.deb ...
+Unpacking php5-readline (5.5.9+dfsg-1ubuntu4.29) ...
+Selecting previously unselected package libapache2-mod-php5.
+Preparing to unpack .../libapache2-mod-php5_5.5.9+dfsg-1ubuntu4.29_amd64.deb ...
+Unpacking libapache2-mod-php5 (5.5.9+dfsg-1ubuntu4.29) ...
+Selecting previously unselected package libmcrypt4.
+Preparing to unpack .../libmcrypt4_2.5.8-3.1ubuntu1_amd64.deb ...
+Unpacking libmcrypt4 (2.5.8-3.1ubuntu1) ...
+Selecting previously unselected package php5.
+Preparing to unpack .../php5_5.5.9+dfsg-1ubuntu4.29_all.deb ...
+Unpacking php5 (5.5.9+dfsg-1ubuntu4.29) ...
+Selecting previously unselected package php5-mcrypt.
+Preparing to unpack .../php5-mcrypt_5.4.6-0ubuntu5_amd64.deb ...
+Unpacking php5-mcrypt (5.4.6-0ubuntu5) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Setting up php5-cli (5.5.9+dfsg-1ubuntu4.29) ...
+update-alternatives: using /usr/bin/php5 to provide /usr/bin/php (php) in auto mode
+
+Creating config file /etc/php5/cli/php.ini with new version
+php5_invoke: Enable module mysqli for cli SAPI
+php5_invoke: Enable module opcache for cli SAPI
+php5_invoke: Enable module json for cli SAPI
+php5_invoke: Enable module pdo_mysql for cli SAPI
+php5_invoke: Enable module pdo for cli SAPI
+php5_invoke: Enable module mysql for cli SAPI
+Setting up php5-readline (5.5.9+dfsg-1ubuntu4.29) ...
+
+Creating config file /etc/php5/mods-available/readline.ini with new version
+php5_invoke: Enable module readline for apache2 SAPI
+php5_invoke: Enable module readline for cli SAPI
+Setting up libapache2-mod-php5 (5.5.9+dfsg-1ubuntu4.29) ...
+
+Creating config file /etc/php5/apache2/php.ini with new version
+php5_invoke: Enable module mysqli for apache2 SAPI
+php5_invoke: Enable module opcache for apache2 SAPI
+php5_invoke: Enable module json for apache2 SAPI
+php5_invoke readline: already enabled for apache2 SAPI
+php5_invoke: Enable module pdo_mysql for apache2 SAPI
+php5_invoke: Enable module pdo for apache2 SAPI
+php5_invoke: Enable module mysql for apache2 SAPI
+Module mpm_event disabled.
+Enabling module mpm_prefork.
+apache2_switch_mpm Switch to prefork
+ * Restarting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+[77G[[31mfail[39;49m]
+ [33m*[39;49m The apache2 instance did not start within 20 seconds. Please read the log files to discover problems
+invoke-rc.d: initscript apache2, action "restart" failed.
+apache2_invoke: Enable module php5
+ * Restarting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+[77G[[31mfail[39;49m]
+ [33m*[39;49m The apache2 instance did not start within 20 seconds. Please read the log files to discover problems
+invoke-rc.d: initscript apache2, action "restart" failed.
+Setting up libmcrypt4 (2.5.8-3.1ubuntu1) ...
+Setting up php5 (5.5.9+dfsg-1ubuntu4.29) ...
+Setting up php5-mcrypt (5.4.6-0ubuntu5) ...
+Processing triggers for libc-bin (2.19-0ubuntu6.15) ...
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo nano /etc/apache2/mods-enabled/dir.conf
+[?1049h[1;24r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6       File: /etc/apache2/mods-enabled/dir.conf                    [3;1H(B[m<IfModule mod_dir.c>[4;9HDirectoryIndex index.html index.cgi index.pl index.php index.xhtml index.h$[5;1H</IfModule>[7d# vim: syntax=apache ts=4 sw=4 sts=4 sr noet[22;34H(B[0;7m[ Read 5 lines ][23d^G(B[m Get Help  (B[0;7m^O(B[m WriteOut  (B[0;7m^R(B[m Read File (B[0;7m^Y(B[m Prev Page (B[0;7m^K(B[m Cut Text  (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^J(B[m Justify   (B[0;7m^W(B[m Where Is  (B[0;7m^V(B[m Next Page (B[0;7m^U(B[m UnCut Text(B[0;7m^T(B[m To Spell[3d[23d[J[24;83H[24;1H[?1049l[?1l>]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo nano /var/www/info.php
+[?1049h[1;24r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6            File: /var/www/info.php                                [22;36H[ New File ][23d^G(B[m Get Help  (B[0;7m^O(B[m WriteOut  (B[0;7m^R(B[m Read File (B[0;7m^Y(B[m Prev Page (B[0;7m^K(B[m Cut Text  (B[0;7m^C(B[m Cur Pos[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^J(B[m Justify   (B[0;7m^W(B[m Where Is  (B[0;7m^V(B[m Next Page (B[0;7m^U(B[m UnCut Text(B[0;7m^T(B[m To Spell[3d[1;74H(B[0;7mModified[3d(B[0;1m[32m<?php[4d(B[0m[37mphpinfo([39m(B[m);[5d(B[0;1m[32m?>[39m(B[m[?25l[3dMain nano help text[4d[K[5d The nano editor is designed to emulate the functionality and ease-of-use of the[6d UW Pico text editor.  There are four main sections of the editor.  The top line[7d shows the program version, the current filename being edited, and whether or not[8d the file has been modified.  Next is the main editor window showing the file[9d being edited.  The status line is the third line from the bottom and shows[10d important messages.  The bottom two lines show the most commonly used shortcuts[11d in the editor.[13d The notation for shortcuts is as follows: Control-key sequences are notated with[14d a caret (^) symbol and can be entered either by using the Control (Ctrl) key or[15d pressing the Escape (Esc) key twice.  Escape-key sequences are notated with the[16d Meta (M-) symbol and can be entered using either the Esc, Alt, or Meta key[17d depending on your keyboard setup.  Also, pressing Esc twice and then typing a[18d three-digit decimal number from 000 to 255 will enter the character with the[19d corresponding value.  The following keystrokes are available in the main editor[20d window.  Alternative keys are shown in parentheses:[22d[K[23;2H(B[0;7mY(B[m Prev Page        (B[0;7m^P(B[m Prev Line        (B[0;7m^X(B[m Exit[K[24;2H(B[0;7mV(B[m Next Page        (B[0;7m^N(B[m Next Line[K[21d7[3;22r8[22d[3S[1;24r[19;1H^G[9G(F1)[19;25HDisplay this help text[20d^X[9G(F2)[20;25HClose the current file buffer / Exit from nano[21d^O[9G(F3)[21;25HWrite the current file to disk7[3;22r8[22d[3S[1;24r[19;1H^J[9G(F4)[19;25HJustify the current paragraph[21d^R[9G(F5)[21;25HInsert another file into the current one7[3;22r8[22d[3S[1;24r[19;1H^W[9G(F6)[19;25HSearch for a string or a regular expression[20d^Y[9G(F7)[20;25HGo to previous screen[21d^V[9G(F8)[21;25HGo to next screen7[3;22r8[22d[3S[1;24r[20;1H^K[9G(F9)[20;25HCut the current line and store it in the cutbuffer[21d^U[9G(F10)[21;25HUncut from the cutbuffer into the current line7[3;22r8[22d[3S[1;24r[19;1H^C[9G(F11)[19;25HDisplay the position of the cursor[20d^T[9G(F12)[20;25HInvoke the spell checker, if available[21d7[3;22r8[22d[3S[1;24r[19;1HM-\     (M-|)[19;25HGo to the first line of the file[20dM-/     (M-?)[20;25HGo to the last line of the file[21d7[2;22r8[22d[3S[1;24r[2;1H[K[19d^_[9G(F13)   (M-G)   Go to line and column number[20d^\[9G(F14)   (M-R)   Replace a string or a regular expression[21d^^[9G(F15)   (M-A)   Mark text at the cursor position7[2;22r8[22d[3S[1;24r[19;1HM-W     (F16)[19;25HRepeat last search[21dM-^     (M-6)[21;25HCopy the current line and store it in the cutbuffer7[3;22r8[22d[2S[1;24r[20;1HM-}[20;25HIndent the current line[21dM-{[21;25HUnindent the current line7[3;22r8[22d
+[1;24r[21;1H^F[21;25HGo forward one character7[3;22r8[22d[3S[1;24r[19;1H^B[19;25HGo back one character[20d^Space[20;25HGo forward one word[21dM-Space[21;25HGo back one word7[3;22r8[22d[3S[1;24r[19;1H^P[19;25HGo to previous line[20d^N[20;25HGo to next line[21d7[3;22r8[22d[3S[1;24r[19;1H^A[19;25HGo to beginning of current line[20d^E[20;25HGo to end of current line[21dM-(     (M-9)[21;25HGo to beginning of paragraph; then of previous paragraph7[2;22r8[22d[3S[1;24r[2;1H[K[19dM-)     (M-0)[19;25HGo just beyond end of paragraph; then of next paragraph[20dM-][20;25HGo to the matching bracket[21dM--     (M-_)[21;25HScroll up one line without scrolling the cursor7[2;22r8[22d[3S[1;24r[19;1HM-+     (M-=)[19;25HScroll down one line without scrolling the cursor[20dM-<     (M-,)[20;25HSwitch to the previous file buffer[21dM->     (M-.)[21;25HSwitch to the next file buffer7[3;22r8[22d[3S[1;24r[20;1HM-V[20;25HInsert the next keystroke verbatim[21d^I[21;25HInsert a tab at the cursor position7[3;22r8[22d[3S[1;24r[19;1H^M[19;25HInsert a newline at the cursor position[20d^D[20;25HDelete the character under the cursor[21d^H[21;25HDelete the character to the left of the cursor7[3;22r8[22d[3S[1;24r[19;1HM-T[19;25HCut from the cursor position to the end of the file[21dM-J[21;25HJustify the entire file7[3;22r8[22d[3S[1;24r[19;1HM-D[19;25HCount the number of words, lines, and characters[20d^L[20;25HRefresh (redraw) the current screen[21d^Z[21;25HSuspend the editor (if suspend is enabled)7[3;22r8[22d[3S[1;24r[20;1H(M-X)[20;25HHelp mode enable/disable[21d(M-C)[21;25HConstant cursor position display enable/disable7[3;22r8[22d[3S[1;24r[19;1H(M-O)[19;25HUse of one more line for editing enable/disable[20d(M-S)[20;25HSmooth scrolling enable/disable[21d(M-P)[21;25HWhitespace display enable/disable7[3;22r8[22d[3S[1;24r[19;1H(M-Y)[19;25HColor syntax highlighting enable/disable[20d(M-H)[20;25HSmart home key enable/disable[21d(M-I)[21;25HAuto indent enable/disable7[2;22r8[22d[3S[1;24r[2;1H[K[19d(M-K)[19;25HCut to end enable/disable[20d(M-L)[20;25HLong line wrapping enable/disable[21d(M-Q)[21;25HConversion of typed tabs to spaces enable/disable7[2;22r8[22d[3S[1;24r[19;1H(M-B)[19;25HBackup files enable/disable[20d(M-F)[20;25HMultiple file buffers enable/disable[21d(M-M)[21;25HMouse support enable/disable7[3;22r8[22d[3S[1;24r[19;1H(M-N)[19;25HNo conversion from DOS/Mac format enable/disable[20d(M-Z)[20;25HSuspension enable/disable[21d(M-$)[21;25HSoft line wrapping enable/disable[2;21r[2;1H[3T[1;24r[3;1HM-J[3;25HJustify the entire file[4dM-D[4;25HCount the number of words, lines, and characters[5d^L[5;25HRefresh (redraw) the current screen[21;53H[2;21r[2;1H[3T[1;24r[3;1H^H[3;25HDelete the character to the left of the cursor[4dM-T[4;25HCut from the cursor position to the end of the file[21;74H[2;21r[2;1H[3T[1;24r[3;1H^I[3;25HInsert a tab at the cursor position[4d^M[4;25HInsert a newline at the cursor position[5d^D[5;25HDelete the character under the cursor[21;51H[2;21r[2;1H[3T[1;24r[3;1HM->     (M-.)[3;25HSwitch to the next file buffer[5dM-V[5;25HInsert the next keystroke verbatim[21;58H[2;21r[2;1H[3T[1;24r[3;1HM--     (M-_)[3;25HScroll up one line without scrolling the cursor[4dM-+     (M-=)[4;25HScroll down one line without scrolling the cursor[5dM-<     (M-,)[5;25HSwitch to the previous file buffer[21;72H[2;22r[2;1H[3T[1;24r[3;1HM-(     (M-9)[3;25HGo to beginning of paragraph; then of previous paragraph[4dM-)     (M-0)[4;25HGo just beyond end of paragraph; then of next paragraph[5dM-][5;25HGo to the matching bracket[21;67H[2;21r[2;1H[3T[1;24r[4;1H^A[4;25HGo to beginning of current line[5d^E[5;25HGo to end of current line[21;48H[2;21r[2;1H[3T[1;24r[3;1HM-Space[3;25HGo back one word[4d^P[4;25HGo to previous line[5d^N[5;25HGo to next line[21;71H[2;21r[2;1H[3T[1;24r[3;1H^F[3;25HGo forward one character[4d^B[4;25HGo back one character[5d^Space[5;25HGo forward one word[21;60H[2;22r[2;1H[3T[1;24r[3;1HM-^     (M-6)[3;25HCopy the current line and store it in the cutbuffer[4dM-}[4;25HIndent the current line[5dM-{[5;25HUnindent the current line[21;55H[2;21r[2;1H[3T[1;24r[3;1H^^[9G(F15)   (M-A)   Mark text at the cursor position[4dM-W     (F16)[4;25HRepeat last search[21;72H[2;21r[2;1H[3T[1;24r[4;1H^_[9G(F13)   (M-G)   Go to line and column number[5d^\[9G(F14)   (M-R)   Replace a string or a regular expression[21;81H[2;21r[2;1H[3T[1;24r[4;1HM-\     (M-|)[4;25HGo to the first line of the file[5dM-/     (M-?)[5;25HGo to the last line of the file[21d[2;21r[2;1H[3T[1;24r[3;1H^U[9G(F10)[3;25HUncut from the cutbuffer into the current line[4d^C[9G(F11)[4;25HDisplay the position of the cursor[5d^T[9G(F12)[5;25HInvoke the spell checker, if available[21;41H[2;21r[2;1H[3T[1;24r[3;1H^V[9G(F8)[3;25HGo to next screen[5d^K[9G(F9)[5;25HCut the current line and store it in the cutbuffer[21;49H[2;21r[2;1H[3T[1;24r[3;1H^R[9G(F5)[3;25HInsert another file into the current one[4d^W[9G(F6)[4;25HSearch for a string or a regular expression[5d^Y[9G(F7)[5;25HGo to previous screen[21;76H[2;21r[2;1H[3T[1;24r[3;1H^O[9G(F3)[3;25HWrite the current file to disk[4d^J[9G(F4)[4;25HJustify the current paragraph[21;57H[2;21r[2;1H[3T[1;24r[4;1H^G[9G(F1)[4;25HDisplay this help text[5d^X[9G(F2)[5;25HClose the current file buffer / Exit from nano[21d[2;21r[2;1H[3T[1;24r[3;2Hthree-digit decimal number from 000 to 255 will enter the character with the[4d corresponding value.  The following keystrokes are available in the main editor[5d window.  Alternative keys are shown in parentheses:[21d[2;21r[2;1H[3T[1;24r[3;2Hpressing the Escape (Esc) key twice.  Escape-key sequences are notated with the[4d Meta (M-) symbol and can be entered using either the Esc, Alt, or Meta key[5d depending on your keyboard setup.  Also, pressing Esc twice and then typing a[21;71H[2;22r[2;1H[3T[1;24r[4;2HThe notation for shortcuts is as follows: Control-key sequences are notated with[5d a caret (^) symbol and can be entered either by using the Control (Ctrl) key or[21;42H[2;21r[2;1H[3T[1;24r[3;2Hbeing edited.  The status line is the third line from the bottom and shows[4d important messages.  The bottom two lines show the most commonly used shortcuts[5d in the editor.[21;65H[2;21r[2;1H[3T[1;24r[3;2HUW Pico text editor.  There are four main sections of the editor.  The top line[4d shows the program version, the current filename being edited, and whether or not[5d the file has been modified.  Next is the main editor window showing the file[21;55H[2;21r[2;1H[3T[1;24r[3;1HMain nano help text[5d The nano editor is designed to emulate the functionality and ease-of-use of the[21d[?12l[?25h[3d(B[0;1m[32m<?php[39m(B[m[K[4d[37mphpinfo([39m(B[m);[5d(B[0;1m[32m?>[39m(B[m[K[6d[K[7d[K[8d[K[9d[K[10d[K[11d[K[13d[K[14d[K[15d[K[16d[K[17d[K[18d[K[19d[K[20d[K[23;2H(B[0;7mG(B[m Get Help  (B[0;7m^O(B[m WriteOut  (B[0;7m^R(B[m Read File (B[0;7m^Y(B[m Prev Page (B[0;7m^K(B[m Cut Text  (B[0;7m^C(B[m Cur Pos[24;2H(B[0;7mX(B[m Exit      (B[0;7m^J(B[m Justify   (B[0;7m^W(B[m Where Is  (B[0;7m^V(B[m Next Page (B[0;7m^U(B[m UnCut Text(B[0;7m^T(B[m To Spell[5;3H[22d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                       [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;62H(B[0;7mFile Name to Write: /var/www/info.php                       [23d^G(B[m Get Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[22;38H[23d[39;49m(B[m[J[1;74H(B[0;7m        [22;33H(B[m[1K (B[0;7m[ Wrote 3 lines ](B[m[K[24;83H[24;1H[?1049l[?1l>]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo service apache2 restat[Krt
+ * Restarting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+[77G[[31mfail[39;49m]
+ [33m*[39;49m The apache2 instance did not start within 20 seconds. Please read the log files to discover problems
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo  /etc/init.d/apache2 start 
+ * Starting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+ [31m*[39;49m 
+ [33m*[39;49m The apache2 instance did not start within 20 seconds. Please read the log files to discover problems
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo systemctl start apache2.service.[K
+Failed to issue method call: Unit apache2.service failed to load: No such file or directory. See system logs and 'systemctl status apache2.service' for details.
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# system [Kctl status apache2.service
+apache2.service
+   Loaded: [1;31merror[0m (Reason: No such file or directory)
+   Active: inactive (dead)
+
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo service apache2 restart
+ * Restarting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+^Z
+[3]+  Stopped                 sudo service apache2 restart
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo service apache2 restart[1Pstart[1Pstart
+ * Starting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+ [31m*[39;49m 
+ [33m*[39;49m The apache2 instance did not start within 20 seconds. Please read the log files to discover problems
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo service apache2 start
+ * Starting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+ [31m*[39;49m 
+ [33m*[39;49m The apache2 instance did not start within 20 seconds. Please read the log files to discover problems
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo service apache2 restart
+ * Restarting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+[77G[[31mfail[39;49m]
+ [33m*[39;49m The apache2 instance did not start within 20 seconds. Please read the log files to discover problems
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo /etc/init.d/apache2 start
+ * Starting web server apache2       [83G AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+(98)Address already in use: AH00072: make_sock: could not bind to address [::]:80
+(98)Address already in use: AH00072: make_sock: could not bind to address 0.0.0.0:80
+no listening sockets available, shutting down
+AH00015: Unable to open logs
+Action 'start' failed.
+The Apache error log may have more information.
+ [31m*[39;49m 
+ [33m*[39;49m The apache2 instance did not start within 20 seconds. Please read the log files to discover problems
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo systemctl restart apache2
+Failed to issue method call: Unit apache2.service failed to load: No such file or directory. See system logs and 'systemctl status apache2.service' for details.
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# systemctl status apache2.service
+apache2.service
+   Loaded: [1;31merror[0m (Reason: No such file or directory)
+   Active: inactive (dead)
+
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo apt-get remove apache2
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following package was automatically installed and is no longer required:
+  linux-modules-extra-4.4.0-144-generic
+Use 'apt-get autoremove' to remove it.
+The following extra packages will be installed:
+  php5-cgi
+Suggested packages:
+  php-pear
+The following packages will be REMOVED:
+  apache2 libapache2-mod-php5
+The following NEW packages will be installed:
+  php5-cgi
+0 upgraded, 1 newly installed, 2 to remove and 0 not upgraded.
+Need to get 4,266 kB of archives.
+After this operation, 7,851 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+0% [Working]            0% [Waiting for headers]                        Get:1 http://in.archive.ubuntu.com/ubuntu/ trusty-updates/main php5-cgi amd64 5.5.9+dfsg-1ubuntu4.29 [4,266 kB]
+                        0% [1 php5-cgi 8,347 B/4,266 kB 0%]                                   3% [1 php5-cgi 121 kB/4,266 kB 3%]                                  25% [1 php5-cgi 1,087 kB/4,266 kB 25%]98% [1 php5-cgi 4,184 kB/4,266 kB 98%]                                      100% [Working]              Fetched 4,266 kB in 2s (2,107 kB/s)
+Selecting previously unselected package php5-cgi.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 274995 files and directories currently installed.)
+Preparing to unpack .../php5-cgi_5.5.9+dfsg-1ubuntu4.29_amd64.deb ...
+Unpacking php5-cgi (5.5.9+dfsg-1ubuntu4.29) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+dpkg: apache2: dependency problems, but removing anyway as you requested:
+ libapache2-mod-php5 depends on apache2 (>= 2.4); however:
+  Package apache2 is to be removed.
+
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 275006 files and directories currently installed.)
+Removing apache2 (2.4.7-1ubuntu4.22) ...
+ * Stopping web server apache2       [83G  * 
+dpkg: libapache2-mod-php5: dependency problems, but removing anyway as you requested:
+ php5 depends on libapache2-mod-php5 (>= 5.5.9+dfsg-1ubuntu4.29) | libapache2-mod-php5filter (>= 5.5.9+dfsg-1ubuntu4.29) | php5-cgi (>= 5.5.9+dfsg-1ubuntu4.29) | php5-fpm (>= 5.5.9+dfsg-1ubuntu4.29); however:
+  Package libapache2-mod-php5 is to be removed.
+  Package libapache2-mod-php5filter is not installed.
+  Package php5-cgi is not configured yet.
+  Package php5-fpm is not installed.
+
+Removing libapache2-mod-php5 (5.5.9+dfsg-1ubuntu4.29) ...
+php5_invoke prerm: Disable module mysqli for apache2 SAPI
+php5_invoke prerm: Disable module opcache for apache2 SAPI
+php5_invoke prerm: Disable module json for apache2 SAPI
+php5_invoke prerm: Disable module readline for apache2 SAPI
+php5_invoke prerm: Disable module pdo_mysql for apache2 SAPI
+php5_invoke prerm: Disable module pdo for apache2 SAPI
+php5_invoke prerm: Disable module mysql for apache2 SAPI
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Processing triggers for ufw (0.34~rc-0ubuntu2) ...
+Rules updated for profile 'Apache'
+Rules updated for profile 'Apache Full'
+Rules updated for profile 'Nginx HTTP'
+Rules updated for profile 'Nginx HTTPS'
+Firewall reloaded
+Setting up php5-cgi (5.5.9+dfsg-1ubuntu4.29) ...
+update-alternatives: using /usr/bin/php5-cgi to provide /usr/bin/php-cgi (php-cgi) in auto mode
+update-alternatives: using /usr/lib/cgi-bin/php5 to provide /usr/lib/cgi-bin/php (php-cgi-bin) in auto mode
+
+Creating config file /etc/php5/cgi/php.ini with new version
+php5_invoke: Enable module mysqli for cgi SAPI
+php5_invoke: Enable module opcache for cgi SAPI
+php5_invoke: Enable module json for cgi SAPI
+php5_invoke: Enable module readline for cgi SAPI
+php5_invoke: Enable module pdo_mysql for cgi SAPI
+php5_invoke: Enable module pdo for cgi SAPI
+php5_invoke: Enable module mysql for cgi SAPI
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo apt-get install apache2
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  linux-modules-extra-4.4.0-144-generic php5-cli php5-readline
+Use 'apt-get autoremove' to remove them.
+Suggested packages:
+  apache2-doc apache2-suexec-pristine apache2-suexec-custom apache2-utils
+The following NEW packages will be installed:
+  apache2
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 0 B/87.4 kB of archives.
+After this operation, 476 kB of additional disk space will be used.
+Selecting previously unselected package apache2.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 274959 files and directories currently installed.)
+Preparing to unpack .../apache2_2.4.7-1ubuntu4.22_amd64.deb ...
+Unpacking apache2 (2.4.7-1ubuntu4.22) ...
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Processing triggers for ufw (0.34~rc-0ubuntu2) ...
+Rules updated for profile 'Apache'
+Rules updated for profile 'Apache Full'
+Rules updated for profile 'Nginx HTTP'
+Rules updated for profile 'Nginx HTTPS'
+Firewall reloaded
+Processing triggers for ureadahead (0.100.0-16) ...
+Setting up apache2 (2.4.7-1ubuntu4.22) ...
+ * Restarting web server apache2       [83G [77G[[31mfail[39;49m]
+ [33m*[39;49m The apache2 configtest failed.
+Output of config test was:
+apache2: Syntax error on line 140 of /etc/apache2/apache2.conf: Syntax error on line 1 of /etc/apache2/mods-enabled/php5.load: Cannot load /usr/lib/apache2/modules/libphp5.so into server: /usr/lib/apache2/modules/libphp5.so: cannot open shared object file: No such file or directory
+Action 'configtest' failed.
+The Apache error log may have more information.
+invoke-rc.d: initscript apache2, action "restart" failed.
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo apt-get purge apache2
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  apache2-bin apache2-data libapr1 libaprutil1 libaprutil1-dbd-sqlite3
+  libaprutil1-ldap linux-modules-extra-4.4.0-144-generic php5-cli
+  php5-readline
+Use 'apt-get autoremove' to remove them.
+The following packages will be REMOVED:
+  apache2*
+0 upgraded, 0 newly installed, 1 to remove and 0 not upgraded.
+After this operation, 476 kB disk space will be freed.
+Do you want to continue? [Y/n] y
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 274998 files and directories currently installed.)
+Removing apache2 (2.4.7-1ubuntu4.22) ...
+ * Stopping web server apache2       [83G  * 
+Purging configuration files for apache2 (2.4.7-1ubuntu4.22) ...
+dpkg: warning: while removing apache2, directory '/var/www/html' not empty so not removed
+Processing triggers for man-db (2.6.7.1-1ubuntu1) ...
+Processing triggers for ufw (0.34~rc-0ubuntu2) ...
+Rules updated for profile 'Nginx HTTP'
+Rules updated for profile 'Nginx HTTPS'
+Firewall reloaded
+]0;root@CC2-24: /home/s4d1root@CC2-24:/home/s4d1# sudo apt-get purge apache2[2@install[C[C[C[C[C[C[C[C
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  linux-modules-extra-4.4.0-144-generic php5-cli php5-readline
+Use 'apt-get autoremove' to remove them.
+Suggested packages:
+  apache2-doc apache2-suexec-pristine apache2-suexec-custom apache2-utils
+The following NEW packages will be installed:
+  apache2
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 0 B/87
