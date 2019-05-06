@@ -13,7 +13,8 @@ Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
 278 packages can be updated.
 0 updates are security updates.
 
-Last login: Thu Mar 28 11:59:58 2019 from 192.168.0.214
+Last login: Thu Mar 28 11:59:58 2019 from 192.168.0.214
+
 $ passwd
 Changing password for cs17d38.
 (current) UNIX password: 
@@ -24,7 +25,8 @@ Enter new UNIX password:
 Retype new UNIX password: 
 passwd: password updated successfully
 $ exit
-Connection to 192.168.0.30 closed.
+Connection to 192.168.0.30 closed.
+
 ]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ ssh cs17d38@192.168.0.30
 .
               |
@@ -39,7 +41,8 @@ Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
 278 packages can be updated.
 0 updates are security updates.
 
-Last login: Thu Mar 28 12:01:24 2019 from 192.168.0.214
+Last login: Thu Mar 28 12:01:24 2019 from 192.168.0.214
+
 $ ls
 cs17d38  examples.desktop  path
 $ man
@@ -47,7 +50,8 @@ What manual page do you want?
 $ ?
 -sh: 3: ?: not found
 $ exit
-Connection to 192.168.0.30 closed.
+Connection to 192.168.0.30 closed.
+
 ]0;s4d1@CC2-24: ~s4d1@CC2-24:~$ exit
 exit
 
